@@ -54,6 +54,16 @@ function MovieDetail() {
             <h1>
               {movie?.title || "The Untold Story of the great Lorem Ipsum"}
             </h1>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube-nocookie.com/embed/wSYo6mLW0zE?si=Pi2iVZr_NGsDlWSS"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen
+            ></iframe>
             <button className="button">Watch It Now</button>
           </div>
         </div>
