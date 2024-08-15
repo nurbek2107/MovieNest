@@ -8,7 +8,7 @@ const Carousel = ({ images }) => {
       setCurrentIndex((prevIndex) =>
         prevIndex === images.length - 1 ? 0 : prevIndex + 1
       );
-    }, 3000); // 3 soniya (3000 millisekund) har bir slayd o'zgaradi
+    }, 6000); // 3 soniya (3000 millisekund) har bir slayd o'zgaradi
 
     return () => clearInterval(interval);
   }, [images.length]);
@@ -46,7 +46,7 @@ const Carousel = ({ images }) => {
         onClick={handlePrevClick}
       ></button>
       <button
-        className="absolute top-1/2 h-96 w-96  right-0 transform -translate-y-1/2 bg-[#fff0]  p-2 "
+        className="absolute top-1/2 h-96 w-96  right-0 transform -translate-y-1/2 bg-[#fff0]  p-2  "
         onClick={handleNextClick}
       ></button>
     </div>
