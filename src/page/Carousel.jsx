@@ -36,7 +36,7 @@ const Carousel = ({ images }) => {
               <img
                 src={image}
                 alt={`Slide ${index}`}
-                className="w-full object-cover h-"
+                className="w-full object-cover h-[450px]"
               />
           </div>
         ))}

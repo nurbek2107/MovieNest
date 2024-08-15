@@ -15,7 +15,7 @@ function Home() {
     const fetchData = async () => {
       try {
         const response = await axios.get(
-          "https://run.mocky.io/v3/2bb3aa51-ecff-4efe-9cce-b8c141b3c21c"
+          "https://run.mocky.io/v3/0855334c-bf36-4858-875a-9e0e7d3e545e"
         );
         setData(response.data.data || response.data);
       } catch (error) {
@@ -105,6 +105,7 @@ function Home() {
             <div className="flex gap-10 mb-8 items-center justify-center p-4">
               <div className="flex flex-col items-center justify-center">
                 <h3>{item.title}</h3>
+                <p>{ item.id}</p>
                 {/* YouTube video link */}
               </div>
             </div>

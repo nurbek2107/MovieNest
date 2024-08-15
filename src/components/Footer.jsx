@@ -3,7 +3,7 @@ import SocialLinks from "../SocialLinks";
 const Footer = () => {
   return (
     <footer className="">
-        <div className="footer bg-gray-800 text-white py-4 flex flex-col gap-5">
+        {/* <div className="footer bg-gray-800 text-white py-4 flex flex-col gap-5">
           <h1 className="m-auto text-white font-bold text-3xl ">
             Eng yangi tarjima kinolar uzbek tilida!
           </h1>
@@ -22,7 +22,7 @@ const Footer = () => {
             </div>
             <SocialLinks />
           </div>
-        </div>
+        </div> */}
     </footer>
   );
 };
