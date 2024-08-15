@@ -1,0 +1,11 @@
+/* Example CSS for dark mode */
+body.dark {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* Example CSS for light mode */
+body {
+  background-color: #ffffff;
+  color: #000000;
+}

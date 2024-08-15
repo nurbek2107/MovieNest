@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+.container {
+  max-width: 1100px;
+  padding: 0px;
+  margin: 0px auto;
+}
+.blur-background {
+  background: b80e0e;
+  backdrop-filter: blur(8px);
+  padding: 20px;
+}
+
+
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.7);
+  /* Rang va shaffoflikni sozlash */
+  backdrop-filter: blur(10px);
+  /* Blur effekti */
+  -webkit-backdrop-filter: blur(10px);
+  /* Safari uchun */
+  padding: 10px 20px;
+  /* Padding qo'shish */
+}
+
+/* Loader.css */
+/* Loader.css */
+/* Loader.css */
+.loader-container {
+  display: flex;
+  justify-content: center;
+  /* Gorizontal markazlashtirish */
+  align-items: center;
+  /* Vertikal markazlashtirish */
+  height: 100vh;
+  /* To'liq ekran balandligi */
+}
+
+.loader {
+  border: 8px solid #f3f3f3;
+  /* Light grey */
+  border-top: 8px solid #3498db;
+  /* Blue */
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
