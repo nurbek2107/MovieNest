@@ -2,6 +2,8 @@ import axios from "axios";
 import { useState, useEffect } from "react";
 import Loader from "./Loader";
 import Carousel from "./Carousel";
+import Card from "./MovieCard";
+
 
 function Home() {
   const [data, setData] = useState([]);
@@ -105,7 +107,6 @@ function Home() {
             <div className="flex gap-10 mb-8 items-center justify-center p-4">
               <div className="flex flex-col items-center justify-center">
                 <h3>{item.title}</h3>
-                <p>{ item.id}</p>
                 {/* YouTube video link */}
               </div>
             </div>
@@ -120,6 +121,7 @@ function Home() {
           >
             Ko'proq ko'rsatish
           </button>
+          <Card/>
         </div>
       )}
     </div>
