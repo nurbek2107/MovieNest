@@ -1,1799 +1,781 @@
 {
-    "data": [
-        {
-            "id": "1",
-            "youtube_video_id": "hZ90Nd7pnp4",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/hZ90Nd7pnp4/maxresdefault.jpg",
-            "title": "DER HERR DER RINGE: Die Ringe der Macht Staffel 2 Finaler Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/aif0rwqe8u.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Fantasy",
-                "Abenteuer",
-                "Drama"
-            ],
-            "published": "2024-08-14T16:17:16+02:00",
-            "views": 105254
-        },
-        {
-            "id": "2",
-            "youtube_video_id": "7bIm4JnEooM",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/7bIm4JnEooM/maxresdefault.jpg",
-            "title": "VAIANA 2 Neuer Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/wajemfqoz7.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Abenteuer",
-                "Familie",
-                "Fantasy",
-                "Komödie"
-            ],
-            "published": "2024-08-10T09:30:47+02:00",
-            "views": 360132
-        },
-        {
-            "id": "3",
-            "youtube_video_id": "wSYo6mLW0zE",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/wSYo6mLW0zE/maxresdefault.jpg",
-            "title": "KRAVEN THE HUNTER Uncut Trailer 2 German Deutsch (2024) Marvel",
-            "thumbnail": "https://cdn.kinocheck.com/i/qmg57grh1d.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Science Fiction",
-                "Superhero"
-            ],
-            "published": "2024-08-14T09:30:38+02:00",
-            "views": 72005
-        },
-        {
-            "id": "4",
-            "youtube_video_id": "aKqKe-vODEk",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/aKqKe-vODEk/maxresdefault.jpg",
-            "title": "MUFASA: Der König der Löwen Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/7c1vhg7pma.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Familie",
-                "Animation",
-                "Drama",
-                "Musik"
-            ],
-            "published": "2024-08-10T09:26:26+02:00",
-            "views": 270413
-        },
-        {
-            "id": "5",
-            "youtube_video_id": "o5v8sUeAau4",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/o5v8sUeAau4/maxresdefault.jpg",
-            "title": "SCHNEEWITTCHEN Trailer German Deutsch (2025)",
-            "thumbnail": "https://cdn.kinocheck.com/i/5twkrypd7i.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Fantasy",
-                "Drama",
-                "Familie",
-                "Lovestory",
-                "Musik"
-            ],
-            "published": "2024-08-10T09:22:04+02:00",
-            "views": 162786
-        },
-        {
-            "id": "6",
-            "youtube_video_id": "1Rp_8mILkmU",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/1Rp_8mILkmU/maxresdefault.jpg",
-            "title": "DER HERR DER RINGE: Die Ringe der Macht Staffel 2 Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/lr5kcwkbdi.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Fantasy",
-                "Abenteuer",
-                "Drama"
-            ],
-            "published": "2024-07-26T20:44:27+02:00",
-            "views": 503111
-        },
-        {
-            "id": "7",
-            "youtube_video_id": "7jG_oHtN3mY",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/7jG_oHtN3mY/maxresdefault.jpg",
-            "title": "DEADPOOL & WOLVERINE Finaler Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/q77ey5t9uo.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Komödie",
-                "Science Fiction"
-            ],
-            "published": "2024-07-19T16:36:41+02:00",
-            "views": 670908
-        },
-        {
-            "id": "8",
-            "youtube_video_id": "5ix4p6fwdGc",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/5ix4p6fwdGc/maxresdefault.jpg",
-            "title": "GLADIATOR 2 Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/e93y39jqnq.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Abenteuer",
-                "Drama"
-            ],
-            "published": "2024-07-09T15:09:23+02:00",
-            "views": 636811
-        },
-        {
-            "id": "19",
-            "youtube_video_id": "l9GlJgF1Oj8",
-            "youtube_channel_id": "UCV297SPE0sBWzmhmACKJP-w",
-            "youtube_thumbnail": "https://img.youtube.com/vi/l9GlJgF1Oj8/maxresdefault.jpg",
-            "title": "SKELETON CREW Trailer German Deutsch (2024) Star Wars",
-            "thumbnail": "https://cdn.kinocheck.com/i/g8xj5ksm7y.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Science Fiction"
-            ],
-            "published": "2024-08-10T10:15:15+02:00",
-            "views": 60283
-        },
-        {
-            "id": "10",
-            "youtube_video_id": "UnbM5pj_T9g",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/UnbM5pj_T9g/maxresdefault.jpg",
-            "title": "DEADPOOL & WOLVERINE Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/gl9lsl8939.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Komödie",
-                "Science Fiction"
-            ],
-            "published": "2024-04-22T15:46:54+02:00",
-            "views": 1383255
-        },
-        {
-            "id": "11",
-            "youtube_video_id": "ULFDK79Th6Q",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/ULFDK79Th6Q/maxresdefault.jpg",
-            "title": "VAIANA 2 Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/e3f1pgobsi.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Abenteuer",
-                "Familie",
-                "Fantasy",
-                "Komödie"
-            ],
-            "published": "2024-05-29T14:59:14+02:00",
-            "views": 928167
-        },
-        {
-            "id": "12",
-            "youtube_video_id": "pnB9ggxwY_M",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/pnB9ggxwY_M/maxresdefault.jpg",
-            "title": "VENOM 3: The Last Dance Trailer German Deutsch (2024) Tom Hardy",
-            "thumbnail": "https://cdn.kinocheck.com/i/hdxr0r5f32.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Abenteuer",
-                "Science Fiction",
-                "Superhero"
-            ],
-            "published": "2024-06-03T15:09:49+02:00",
-            "views": 812800
-        },
-        {
-            "id": "13",
-            "youtube_video_id": "LL9-TAFmwc0",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/LL9-TAFmwc0/maxresdefault.jpg",
-            "title": "ICH - EINFACH UNVERBESSERLICH 4 Trailer German Deutsch (2024) Minions",
-            "thumbnail": "https://cdn.kinocheck.com/i/5ziho09ow5.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Familie",
-                "Abenteuer",
-                "Animation",
-                "Komödie"
-            ],
-            "published": "2024-01-28T22:07:20+01:00",
-            "views": 1936473
-        },
-        {
-            "id": "14",
-            "youtube_video_id": "ERdl-ePfSmE",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/ERdl-ePfSmE/maxresdefault.jpg",
-            "title": "ALLES STEHT KOPF 2 Finaler Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/kfae5issez.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Familie"
-            ],
-            "published": "2024-06-06T10:43:04+02:00",
-            "views": 676660
-        },
-        {
-            "id": "15",
-            "youtube_video_id": "C-3mXfDMKjM",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/C-3mXfDMKjM/maxresdefault.jpg",
-            "title": "JOKER 2: Folie à Deux Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/bwog6dcoc1.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Thriller",
-                "Action",
-                "Drama",
-                "Krimi"
-            ],
-            "published": "2024-07-23T15:12:10+02:00",
-            "views": 218724
-        },
-        {
-            "id": "16",
-            "youtube_video_id": "UpXRJ9ZMtRk",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/UpXRJ9ZMtRk/maxresdefault.jpg",
-            "title": "DIE SCHULE DER MAGISCHEN TIERE 3 Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/9vdeojna2r.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Familie",
-                "Fantasy",
-                "Komödie"
-            ],
-            "published": "2024-07-12T10:57:41+02:00",
-            "views": 303062
-        },
-        {
-            "id": "17",
-            "youtube_video_id": "LdDjifTtyiA",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/LdDjifTtyiA/maxresdefault.jpg",
-            "title": "CAPTAIN AMERICA 4: Brave New World Trailer German Deutsch (2025)",
-            "thumbnail": "https://cdn.kinocheck.com/i/jywnpepavr.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Superhero",
-                "Abenteuer",
-                "Action",
-                "Fantasy",
-                "Science Fiction"
-            ],
-            "published": "2024-07-12T15:57:55+02:00",
-            "views": 299872
-        },
-        {
-            "id": "19",
-            "youtube_video_id": "Qcagb8qfmq8",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/Qcagb8qfmq8/maxresdefault.jpg",
-            "title": "ALIEN: ROMULUS Finaler Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/sl2jwyhsf9.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Science Fiction",
-                "Horror"
-            ],
-            "published": "2024-07-18T18:22:34+02:00",
-            "views": 231768
-        },
-        {
-            "id": "20",
-            "youtube_video_id": "Kjz81KvE-2c",
-            "youtube_channel_id": "UC02ebHCrFJKxM4Achcl0tlw",
-            "youtube_thumbnail": "https://img.youtube.com/vi/Kjz81KvE-2c/maxresdefault.jpg",
-            "title": "MUFASA Trailer 2 German Deutsch (2024) Der König der Löwen",
-            "thumbnail": "https://cdn.kinocheck.com/i/gdyfz8cm77.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Familie",
-                "Animation",
-                "Drama",
-                "Musik"
-            ],
-            "published": "2024-08-12T14:40:12+02:00",
-            "views": 24283
-        },
-        {
-            "id": "21",
-            "youtube_video_id": "kdQ_Jjkrd7M",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/kdQ_Jjkrd7M/maxresdefault.jpg",
-            "title": "DEADPOOL & WOLVERINE Trailer German Deutsch (2024) Deadpool 3",
-            "thumbnail": "https://cdn.kinocheck.com/i/rdm67wf28g.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Komödie",
-                "Science Fiction"
-            ],
-            "published": "2024-02-12T09:26:30+01:00",
-            "views": 1285689
-        },
-        {
-            "id": "22",
-            "youtube_video_id": "6_5yHTwlWnc",
-            "youtube_channel_id": "UC02ebHCrFJKxM4Achcl0tlw",
-            "youtube_thumbnail": "https://img.youtube.com/vi/6_5yHTwlWnc/maxresdefault.jpg",
-            "title": "REBUILD THE GALAXY Trailer 2 German Deutsch (2024) Lego Star Wars",
-            "thumbnail": "https://cdn.kinocheck.com/i/wbtsdo2kjr.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Familie",
-                "Komödie"
-            ],
-            "published": "2024-08-10T11:39:00+02:00",
-            "views": 32306
-        },
-        {
-            "id": "23",
-            "youtube_video_id": "vWcVYgw2SLk",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/vWcVYgw2SLk/maxresdefault.jpg",
-            "title": "SECHS RICHTIGE: Glück ist nichts für Anfänger Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/hf8gh3fq9g.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Komödie"
-            ],
-            "published": "2024-08-12T10:02:08+02:00",
-            "views": 18883
-        },
-        {
-            "id": "23",
-            "youtube_video_id": "ZeIbU0YvEWQ",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/ZeIbU0YvEWQ/maxresdefault.jpg",
-            "title": "BEETLEJUICE 2 Trailer 3 German Deutsch (2024) Michael Keaton, Jenna Ortega",
-            "thumbnail": "https://cdn.kinocheck.com/i/p3zfee8bx9.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Komödie",
-                "Fantasy",
-                "Horror"
-            ],
-            "published": "2024-07-18T15:11:06+02:00",
-            "views": 175947
-        },
-        {
-            "id": "25",
-            "youtube_video_id": "FNlMtYRRHoY",
-            "youtube_channel_id": "UCV297SPE0sBWzmhmACKJP-w",
-            "youtube_thumbnail": "https://img.youtube.com/vi/FNlMtYRRHoY/maxresdefault.jpg",
-            "title": "AGATHA ALL ALONG Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/0ilpc1xf16.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Fantasy",
-                "Abenteuer",
-                "Action",
-                "Action & Adventure",
-                "Komödie",
-                "Sci-Fi & Fantasy",
-                "Science Fiction",
-                "Superhero"
-            ],
-            "published": "2024-08-10T11:19:35+02:00",
-            "views": 31213
-        },
-        {
-            "id": "26",
-            "youtube_video_id": "0BxBCVmo8YQ",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/0BxBCVmo8YQ/maxresdefault.jpg",
-            "title": "BARBIE Trailer 3 German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/0v1g5db08w.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Komödie"
-            ],
-            "published": "2023-05-25T18:09:09+02:00",
-            "views": 2746550
-        },
-        {
-            "id": "27",
-            "youtube_video_id": "_VciXMZxKr0",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/_VciXMZxKr0/maxresdefault.jpg",
-            "title": "ALLES STEHT KOPF 2 Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/vnmndi7g0e.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Familie"
-            ],
-            "published": "2024-03-07T18:51:02+01:00",
-            "views": 968495
-        },
-        {
-            "id": "28",
-            "youtube_video_id": "htrD_KmbpoA",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/htrD_KmbpoA/maxresdefault.jpg",
-            "title": "ALIEN: Romulus Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/qrqki1kos1.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Science Fiction",
-                "Horror"
-            ],
-            "published": "2024-06-04T18:22:49+02:00",
-            "views": 417250
-        },
-        {
-            "id": "29",
-            "youtube_video_id": "t9bxeHmTMh4",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/t9bxeHmTMh4/maxresdefault.jpg",
-            "title": "BAD BOYS 4: Ride or Die Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/pk744ohs9o.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Komödie",
-                "Krimi"
-            ],
-            "published": "2024-03-26T14:12:45+01:00",
-            "views": 807373
-        },
-        {
-            "id": "30",
-            "youtube_video_id": "5qvmONAfkS0",
-            "youtube_channel_id": "UC02ebHCrFJKxM4Achcl0tlw",
-            "youtube_thumbnail": "https://img.youtube.com/vi/5qvmONAfkS0/maxresdefault.jpg",
-            "title": "VAIANA 2 Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/e7cl3a863q.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Abenteuer",
-                "Familie",
-                "Fantasy",
-                "Komödie"
-            ],
-            "published": "2024-08-13T07:02:08+02:00",
-            "views": 11229
-        },
-        {
-            "id": "31",
-            "youtube_video_id": "DUiK_aCyXS4",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/DUiK_aCyXS4/maxresdefault.jpg",
-            "title": "DER SPITZNAME Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/wviwe7vdyu.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Komödie",
-                "Drama"
-            ],
-            "published": "2024-08-06T11:18:23+02:00",
-            "views": 49324
-        },
-        {
-            "id": "32",
-            "youtube_video_id": "mWu0msMKpfM",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/mWu0msMKpfM/maxresdefault.jpg",
-            "title": "F1 Trailer German Deutsch (2025)",
-            "thumbnail": "https://cdn.kinocheck.com/i/svyeynfwfu.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Sport",
-                "Action"
-            ],
-            "published": "2024-07-07T16:57:53+02:00",
-            "views": 199868
-        },
-        {
-            "id": "33",
-            "youtube_video_id": "3Uo35fvDtoM",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/3Uo35fvDtoM/maxresdefault.jpg",
-            "title": "RED ONE: Alarmstufe Weihnachten Trailer German Deutsch (2024) Dwayne Johnson, Chris Evans",
-            "thumbnail": "https://cdn.kinocheck.com/i/1lqy1bqwpn.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Abenteuer",
-                "Komödie"
-            ],
-            "published": "2024-06-25T18:06:15+02:00",
-            "views": 257149
-        },
-        {
-            "id": "35",
-            "youtube_video_id": "DFvPDm17F-E",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/DFvPDm17F-E/maxresdefault.jpg",
-            "title": "KONKLAVE Trailer German Deutsch (2024) Ralph Fiennes, Stanley Tucci",
-            "thumbnail": "https://cdn.kinocheck.com/i/q5jy8v7530.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Thriller",
-                "Drama"
-            ],
-            "published": "2024-08-01T12:04:29+02:00",
-            "views": 68843
-        },
-        {
-            "id": "36",
-            "youtube_video_id": "2M1bvc-80Nw",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/2M1bvc-80Nw/maxresdefault.jpg",
-            "title": "JOKER 2: Folie à Deux Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/5oi9pzdm9m.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Thriller",
-                "Action",
-                "Drama",
-                "Krimi"
-            ],
-            "published": "2024-04-10T03:02:15+02:00",
-            "views": 614820
-        },
-        {
-            "id": "37",
-            "youtube_video_id": "DKkD4l8VQkk",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/DKkD4l8VQkk/maxresdefault.jpg",
-            "title": "MIRACULOUS: Ladybug & Cat Noir - Der Film Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/mbuabofo6r.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Abenteuer",
-                "Action",
-                "Fantasy",
-                "Lovestory",
-                "Musik"
-            ],
-            "published": "2022-12-05T14:00:31+01:00",
-            "views": 2914668
-        },
-        {
-            "id": "38",
-            "youtube_video_id": "Le1pfdsfFQY",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/Le1pfdsfFQY/maxresdefault.jpg",
-            "title": "KUNG FU PANDA 4 Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/7v003ldop9.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Abenteuer",
-                "Action",
-                "Familie",
-                "Komödie"
-            ],
-            "published": "2023-12-13T17:05:16+01:00",
-            "views": 1156293
-        },
-        {
-            "id": "39",
-            "youtube_video_id": "8RWj_r4qyF4",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/8RWj_r4qyF4/maxresdefault.jpg",
-            "title": "NAPOLEON Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/tg411fkezr.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Historie",
-                "Drama"
-            ],
-            "published": "2023-07-10T14:37:18+02:00",
-            "views": 1848602
-        },
-        {
-            "id": "40",
-            "youtube_video_id": "KjRvLYWLP0A",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/KjRvLYWLP0A/maxresdefault.jpg",
-            "title": "SMILE 2 Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/bywo5i5umx.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Horror",
-                "Thriller"
-            ],
-            "published": "2024-06-18T15:21:50+02:00",
-            "views": 263428
-        },
-        {
-            "id": "41",
-            "youtube_video_id": "Cp3IusvmtNI",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/Cp3IusvmtNI/maxresdefault.jpg",
-            "title": "WOODWALKERS Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/dwyak3wwt3.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Fantasy"
-            ],
-            "published": "2024-07-04T15:25:12+02:00",
-            "views": 185170
-        },
-        {
-            "id": "42",
-            "youtube_video_id": "DsA7Ud5XvHs",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/DsA7Ud5XvHs/maxresdefault.jpg",
-            "title": "ICH - EINFACH UNVERBESSERLICH 4 Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/j7l9ja41a5.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Familie",
-                "Abenteuer",
-                "Animation",
-                "Komödie"
-            ],
-            "published": "2024-05-07T17:09:27+02:00",
-            "views": 431508
-        },
-        {
-            "id": "43",
-            "youtube_video_id": "_Nl0peof6Kk",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/_Nl0peof6Kk/maxresdefault.jpg",
-            "title": "DER SUPER MARIO BROS. FILM Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/93f6m9jrso.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Abenteuer",
-                "Familie",
-                "Fantasy",
-                "Komödie"
-            ],
-            "published": "2022-10-06T22:52:07+02:00",
-            "views": 2904435
-        },
-        {
-            "id": "44",
-            "youtube_video_id": "dkRLZ1ju-EY",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/dkRLZ1ju-EY/maxresdefault.jpg",
-            "title": "NUR NOCH EIN EINZIGES MAL Trailer German Deutsch (2024) Blake Lively",
-            "thumbnail": "https://cdn.kinocheck.com/i/s1xu286mui.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Drama"
-            ],
-            "published": "2024-05-16T15:07:17+02:00",
-            "views": 387848
-        },
-        {
-            "id": "45",
-            "youtube_video_id": "739lmr1IJsk",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/739lmr1IJsk/maxresdefault.jpg",
-            "title": "AVATAR 2 Trailer German Deutsch (2022)",
-            "thumbnail": "https://cdn.kinocheck.com/i/53skwuom5o.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Science Fiction",
-                "Abenteuer",
-                "Action",
-                "Fantasy"
-            ],
-            "published": "2022-05-09T16:56:50+02:00",
-            "views": 3522043
-        },
-        {
-            "id": "46",
-            "youtube_video_id": "hTOHrm_odG4",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/hTOHrm_odG4/maxresdefault.jpg",
-            "title": "THE BEEKEEPER Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/aj3do6rn47.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Thriller"
-            ],
-            "published": "2023-11-03T12:04:46+01:00",
-            "views": 1194585
-        },
-        {
-            "id": "47",
-            "youtube_video_id": "PNAQr7ilS_Y",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/PNAQr7ilS_Y/maxresdefault.jpg",
-            "title": "STAR WARS: The Acolyte Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/6bulmw51bw.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Science Fiction",
-                "Mystery"
-            ],
-            "published": "2024-03-19T17:14:19+01:00",
-            "views": 621946
-        },
-        {
-            "id": "48",
-            "youtube_video_id": "rtJGgLi0InU",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/rtJGgLi0InU/maxresdefault.jpg",
-            "title": "TRANSFORMERS ONE Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/cxt0mpmft5.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Abenteuer",
-                "Animation",
-                "Science Fiction"
-            ],
-            "published": "2024-07-25T22:19:22+02:00",
-            "views": 85971
-        },
-        {
-            "id": "49",
-            "youtube_video_id": "OLcdyDte2e8",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/OLcdyDte2e8/maxresdefault.jpg",
-            "title": "THE EQUALIZER 3 Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/ymp9ifbb84.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Thriller"
-            ],
-            "published": "2023-04-25T15:20:35+02:00",
-            "views": 1952506
-        },
-        {
-            "id": "50",
-            "youtube_video_id": "mZ0Lfm4qrtw",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/mZ0Lfm4qrtw/maxresdefault.jpg",
-            "title": "SLEEPING DOGS Trailer German Deutsch (2024) Russell Crowe",
-            "thumbnail": "https://cdn.kinocheck.com/i/cqm1dq0xrb.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Thriller",
-                "Drama",
-                "Mystery"
-            ],
-            "published": "2024-07-24T13:31:19+02:00",
-            "views": 89434
-        },
-        {
-            "id": "52",
-            "youtube_video_id": "c4Ov-7MP90g",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/c4Ov-7MP90g/maxresdefault.jpg",
-            "title": "FALLOUT Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/tfcgmrehyz.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Science Fiction",
-                "Action",
-                "Drama"
-            ],
-            "published": "2023-12-02T17:30:48+01:00",
-            "views": 1013998
-        },
-        {
-            "id": "53",
-            "youtube_video_id": "I6KeXaxgzaY",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/I6KeXaxgzaY/maxresdefault.jpg",
-            "title": "LONGLEGS Trailer 2 German Deutsch (2024) Nicolas Cage",
-            "thumbnail": "https://img.youtube.com/vi/I6KeXaxgzaY/maxresdefault.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Horror",
-                "Krimi",
-                "Mystery"
-            ],
-            "published": "2024-07-19T15:16:55+02:00",
-            "views": 105265
-        },
-        {
-            "id": "54",
-            "youtube_video_id": "mBX3VGMzApA",
-            "youtube_channel_id": "UCV297SPE0sBWzmhmACKJP-w",
-            "youtube_thumbnail": "https://img.youtube.com/vi/mBX3VGMzApA/maxresdefault.jpg",
-            "title": "UGLY: Verlier nicht dein Gesicht Trailer German Deutsch (2024) Joey King, Netflix",
-            "thumbnail": "https://cdn.kinocheck.com/i/c5rpvz9hub.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Thriller",
-                "Science Fiction"
-            ],
-            "published": "2024-08-08T17:27:06+02:00",
-            "views": 27254
-        },
-        {
-            "id": "55",
-            "youtube_video_id": "ClZl8t6xKNc",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/ClZl8t6xKNc/maxresdefault.jpg",
-            "title": "MEG 2: Die Tiefe Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/bn1rh4dww1.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Science Fiction",
-                "Thriller"
-            ],
-            "published": "2023-05-09T00:07:35+02:00",
-            "views": 1789808
-        },
-        {
-            "id": "56",
-            "youtube_video_id": "Jk9oNtMZFMM",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/Jk9oNtMZFMM/maxresdefault.jpg",
-            "title": "SEPTEMBER 5 Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/xaz1o5gtc3.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Drama"
-            ],
-            "published": "2024-08-02T12:11:40+02:00",
-            "views": 48470
-        },
-        {
-            "id": "57",
-            "youtube_video_id": "4EzMF0ePIvE",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/4EzMF0ePIvE/maxresdefault.jpg",
-            "title": "SPIDER-MAN 3: No Way Home Trailer German Deutsch (2021)",
-            "thumbnail": "https://cdn.kinocheck.com/i/dkasjlo6b5.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Abenteuer",
-                "Science Fiction",
-                "Superhero"
-            ],
-            "published": "2021-08-24T04:04:40+02:00",
-            "views": 4029037
-        },
-        {
-            "id": "58",
-            "youtube_video_id": "_I3x7AK9pXY",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/_I3x7AK9pXY/maxresdefault.jpg",
-            "title": "HOUSE OF THE DRAGON Staffel 2 Neuer Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/iitpo8d1qz.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Fantasy",
-                "Drama"
-            ],
-            "published": "2024-05-14T18:53:58+02:00",
-            "views": 344227
-        },
-        {
-            "id": "59",
-            "youtube_video_id": "n-hdeKLROlg",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/n-hdeKLROlg/maxresdefault.jpg",
-            "title": "MUFASA: Der König der Löwen Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/ng6er16jsg.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Familie",
-                "Animation",
-                "Drama",
-                "Musik"
-            ],
-            "published": "2024-04-29T15:23:29+02:00",
-            "views": 397525
-        },
-        {
-            "id": "60",
-            "youtube_video_id": "G4Y2K4bu_0o",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/G4Y2K4bu_0o/maxresdefault.jpg",
-            "title": "DUNE 2 Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/ya99c768gc.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Science Fiction",
-                "Abenteuer",
-                "Action"
-            ],
-            "published": "2023-06-29T18:05:18+02:00",
-            "views": 1514997
-        },
-        {
-            "id": "61",
-            "youtube_video_id": "jmp2m1HbfTk",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/jmp2m1HbfTk/maxresdefault.jpg",
-            "title": "BEETLEJUICE 2 Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/90tx2fkla9.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Komödie",
-                "Fantasy",
-                "Horror"
-            ],
-            "published": "2024-03-21T22:13:50+01:00",
-            "views": 536191
-        },
-        {
-            "id": "62",
-            "youtube_video_id": "fXnZxe_JhC8",
-            "youtube_channel_id": "UCV297SPE0sBWzmhmACKJP-w",
-            "youtube_thumbnail": "https://img.youtube.com/vi/fXnZxe_JhC8/maxresdefault.jpg",
-            "title": "PERFEKT VERPASST Trailer German Deutsch (2024) Anke Engelke, Bastian Pastewka",
-            "thumbnail": "https://cdn.kinocheck.com/i/orb7uxqcyd.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Komödie",
-                "Drama",
-                "Lovestory"
-            ],
-            "published": "2024-07-31T10:17:49+02:00",
-            "views": 53975
-        },
-        {
-            "id": "63",
-            "youtube_video_id": "_fAK5DdrcpI",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/_fAK5DdrcpI/maxresdefault.jpg",
-            "title": "LONGLEGS Trailer German Deutsch (2024) Nicolas Cage",
-            "thumbnail": "https://cdn.kinocheck.com/i/o4hf075qdu.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Horror",
-                "Krimi",
-                "Mystery"
-            ],
-            "published": "2024-06-11T16:19:53+02:00",
-            "views": 227584
-        },
-        {
-            "id": "64",
-            "youtube_video_id": "DmdreCEYlf8",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/DmdreCEYlf8/maxresdefault.jpg",
-            "title": "THE PENGUIN Trailer German Deutsch (2024) Colin Farrell",
-            "thumbnail": "https://cdn.kinocheck.com/i/7ju8f8ihu7.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Krimi",
-                "Drama"
-            ],
-            "published": "2024-06-20T15:47:24+02:00",
-            "views": 193156
-        },
-        {
-            "id": "65",
-            "youtube_video_id": "5G0LbuoUqsA",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/5G0LbuoUqsA/maxresdefault.jpg",
-            "title": "FIVE NIGHTS AT FREDDY'S Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/3wsj7740bb.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Horror"
-            ],
-            "published": "2023-06-27T17:11:07+02:00",
-            "views": 1427208
-        },
-        {
-            "id": "66",
-            "youtube_video_id": "0oBhSAjEsnE",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/0oBhSAjEsnE/maxresdefault.jpg",
-            "title": "OPPENHEIMER Trailer 2 German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/7z61q7jfeq.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Drama",
-                "Historie",
-                "Kriegsfilm"
-            ],
-            "published": "2023-05-08T09:12:12+02:00",
-            "views": 1526443
-        },
-        {
-            "id": "67",
-            "youtube_video_id": "5IsgZPj1bTI",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/5IsgZPj1bTI/maxresdefault.jpg",
-            "title": "ALLES STEHT KOPF 2 Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/ckp0ac8xqq.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Familie"
-            ],
-            "published": "2023-11-09T16:19:55+01:00",
-            "views": 913178
-        },
-        {
-            "id": "68",
-            "youtube_video_id": "MWzCXq3I8uk",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/MWzCXq3I8uk/maxresdefault.jpg",
-            "title": "NOSFERATU: Der Untote Trailer German Deutsch (2025) Nicholas Hoult, Bill Skarsgård",
-            "thumbnail": "https://cdn.kinocheck.com/i/3d8w86yc8t.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Horror",
-                "Drama",
-                "Fantasy",
-                "Mystery"
-            ],
-            "published": "2024-06-24T17:13:51+02:00",
-            "views": 167955
-        },
-        {
-            "id": "69",
-            "youtube_video_id": "K-JtML-pEJA",
-            "youtube_channel_id": "UCV297SPE0sBWzmhmACKJP-w",
-            "youtube_thumbnail": "https://img.youtube.com/vi/K-JtML-pEJA/maxresdefault.jpg",
-            "title": "THE BOYS Staffel 4 Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/klp2jvpkbl.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Superhero",
-                "Action",
-                "Science Fiction"
-            ],
-            "published": "2024-05-04T08:46:27+02:00",
-            "views": 325306
-        },
-        {
-            "id": "70",
-            "youtube_video_id": "AuS5uSSGL88",
-            "youtube_channel_id": "UCV297SPE0sBWzmhmACKJP-w",
-            "youtube_thumbnail": "https://img.youtube.com/vi/AuS5uSSGL88/maxresdefault.jpg",
-            "title": "LEGO STAR WARS: Rebuild the Galaxy Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/fqcwhk9tuo.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Familie",
-                "Komödie"
-            ],
-            "published": "2024-08-10T15:02:09+02:00",
-            "views": 15781
-        },
-        {
-            "id": "71",
-            "youtube_video_id": "4alI6NQCs9U",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/4alI6NQCs9U/maxresdefault.jpg",
-            "title": "WOLFS Trailer German Deutsch (2024) Brad Pitt, George Clooney",
-            "thumbnail": "https://cdn.kinocheck.com/i/md4s1mj56u.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Thriller"
-            ],
-            "published": "2024-05-29T17:00:53+02:00",
-            "views": 246002
-        },
-        {
-            "id": "72",
-            "youtube_video_id": "YT63DCXVH1g",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/YT63DCXVH1g/maxresdefault.jpg",
-            "title": "FAST & FURIOUS 9 Trailer German Deutsch (2021)",
-            "thumbnail": "https://cdn.kinocheck.com/i/io4t008fse.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Drama",
-                "Krimi",
-                "Thriller"
-            ],
-            "published": "2020-01-31T22:34:45+01:00",
-            "views": 5186186
-        },
-        {
-            "id": "73",
-            "youtube_video_id": "aV5GcT9dwrA",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/aV5GcT9dwrA/maxresdefault.jpg",
-            "title": "HORIZON Trailer 2 German Deutsch (2024) Kevin Costner",
-            "thumbnail": "https://cdn.kinocheck.com/i/53h8egwldg.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Western",
-                "Drama"
-            ],
-            "published": "2024-06-27T10:00:28+02:00",
-            "views": 152651
-        },
-        {
-            "id": "74",
-            "youtube_video_id": "We80b2McYnc",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/We80b2McYnc/maxresdefault.jpg",
-            "title": "JOHN WICK 4 Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/j340hlyr23.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Krimi",
-                "Thriller"
-            ],
-            "published": "2022-11-10T18:06:46+01:00",
-            "views": 1967693
-        },
-        {
-            "id": "75",
-            "youtube_video_id": "PUTab3vP8MI",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/PUTab3vP8MI/maxresdefault.jpg",
-            "title": "SPIDER-MAN: No Way Home Trailer 2 German Deutsch (2021)",
-            "thumbnail": "https://cdn.kinocheck.com/i/7ufbme8ujf.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Abenteuer",
-                "Science Fiction",
-                "Superhero"
-            ],
-            "published": "2021-11-17T02:37:37+01:00",
-            "views": 3034489
-        },
-
-        {
-            "id": "77",
-            "youtube_video_id": "eHS212bmQIw",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/eHS212bmQIw/maxresdefault.jpg",
-            "title": "GODZILLA X KONG: The New Empire Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/5g5qc3yj71.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Abenteuer",
-                "Fantasy",
-                "Science Fiction"
-            ],
-            "published": "2024-02-20T17:07:00+01:00",
-            "views": 513589
-        },
-        {
-            "id": "78",
-            "youtube_video_id": "OWESOygSgbg",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/OWESOygSgbg/maxresdefault.jpg",
-            "title": "BORDERLANDS Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/iws13z1pkt.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Abenteuer",
-                "Komödie",
-                "Science Fiction",
-                "Thriller"
-            ],
-            "published": "2024-07-24T19:15:43+02:00",
-            "views": 63821
-        },
-        {
-            "id": "79",
-            "youtube_video_id": "rwSqK53JNEQ",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/rwSqK53JNEQ/maxresdefault.jpg",
-            "title": "DIE FOTOGRAFIN Trailer German Deutsch (2024) Kate Winslet, Andy Samberg",
-            "thumbnail": "https://cdn.kinocheck.com/i/mj50emgqzv.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Kriegsfilm",
-                "Drama",
-                "Historie"
-            ],
-            "published": "2024-06-27T12:04:15+02:00",
-            "views": 140592
-        },
-        {
-            "id": "80",
-            "youtube_video_id": "F7WcN0Ayl78",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/F7WcN0Ayl78/maxresdefault.jpg",
-            "title": "DER SUPER MARIO BROS. FILM Trailer 2 German Deutsch (2023) [ML]",
-            "thumbnail": "https://cdn.kinocheck.com/i/v21qhugz1t.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Animation",
-                "Abenteuer",
-                "Familie",
-                "Fantasy",
-                "Komödie"
-            ],
-            "published": "2022-11-29T23:16:13+01:00",
-            "views": 1783314
-        },
-        {
-            "id": "82",
-            "youtube_video_id": "EFFJI6d-qB0",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/EFFJI6d-qB0/maxresdefault.jpg",
-            "title": "SMILE: Siehst du es auch? Trailer German Deutsch (2022)",
-            "thumbnail": "https://cdn.kinocheck.com/i/ak4baa4syu.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Horror"
-            ],
-            "published": "2022-06-24T10:00:40+02:00",
-            "views": 2183731
-        },
-        {
-            "id": "83",
-            "youtube_video_id": "l-TtMmTJkc0",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/l-TtMmTJkc0/maxresdefault.jpg",
-            "title": "AGATHA ALL ALONG Trailer German Deutsch (2024) Marvel",
-            "thumbnail": "https://cdn.kinocheck.com/i/tuj4lyclly.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Fantasy",
-                "Abenteuer",
-                "Action",
-                "Action & Adventure",
-                "Komödie",
-                "Sci-Fi & Fantasy",
-                "Science Fiction",
-                "Superhero"
-            ],
-            "published": "2024-07-08T19:04:20+02:00",
-            "views": 105786
-        },
-        {
-            "id": "84",
-            "youtube_video_id": "i3DfDy8Zlfg",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/i3DfDy8Zlfg/maxresdefault.jpg",
-            "title": "BLINK TWICE Trailer 2 German Deutsch (2024) Channing Tatum",
-            "thumbnail": "https://cdn.kinocheck.com/i/bub8pxqt5j.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Thriller",
-                "Lovestory"
-            ],
-            "published": "2024-08-07T18:15:52+02:00",
-            "views": 22188
-        },
-        {
-            "id": "85",
-            "youtube_video_id": "T3PgWDHaPJU",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/T3PgWDHaPJU/maxresdefault.jpg",
-            "title": "BAD BOYS 4: Ride or Die Trailer 2 German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/d8bzbrm593.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Komödie",
-                "Krimi"
-            ],
-            "published": "2024-05-16T21:20:03+02:00",
-            "views": 247406
-        },
-        {
-            "id": "86",
-            "youtube_video_id": "rEV_7g6NHsw",
-            "youtube_channel_id": "UCV297SPE0sBWzmhmACKJP-w",
-            "youtube_thumbnail": "https://img.youtube.com/vi/rEV_7g6NHsw/maxresdefault.jpg",
-            "title": "STAR TREK: Section 31 Trailer German Deutsch UT (2025) Michelle Yeoh",
-            "thumbnail": "https://cdn.kinocheck.com/i/ytiia0bsnl.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Science Fiction",
-                "Abenteuer"
-            ],
-            "published": "2024-08-05T13:21:54+02:00",
-            "views": 27079
-        },
-        {
-            "id": "87",
-            "youtube_video_id": "OYsSefoUdaw",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/OYsSefoUdaw/maxresdefault.jpg",
-            "title": "ES 2 Trailer German Deutsch (2019)",
-            "thumbnail": "https://cdn.kinocheck.com/i/6mh23w8yxi.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Horror"
-            ],
-            "published": "2019-05-10T18:00:02+02:00",
-            "views": 5191921
-        },
-        {
-            "id": "88",
-            "youtube_video_id": "lB8AG7Q-dSI",
-            "youtube_channel_id": "UCV297SPE0sBWzmhmACKJP-w",
-            "youtube_thumbnail": "https://img.youtube.com/vi/lB8AG7Q-dSI/maxresdefault.jpg",
-            "title": "THE DEEP DARK Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/wrfxnku8a9.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Drama",
-                "Abenteuer",
-                "Horror"
-            ],
-            "published": "2024-08-13T13:06:08+02:00",
-            "views": 5350
-        },
-        {
-            "id": "99",
-            "youtube_video_id": "I4gnZHbqDlQ",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/I4gnZHbqDlQ/maxresdefault.jpg",
-            "title": "BEETLEJUICE 2 Trailer 2 German Deutsch (2024) Jenna Ortega, Michael Keaton",
-            "thumbnail": "https://cdn.kinocheck.com/i/gsvep9foue.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Komödie",
-                "Fantasy",
-                "Horror"
-            ],
-            "published": "2024-05-23T18:06:38+02:00",
-            "views": 220729
-        },
-        {
-            "id": "90",
-            "youtube_video_id": "Jvwf77U_xZU",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/Jvwf77U_xZU/maxresdefault.jpg",
-            "title": "TRANSFORMERS ONE Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/zdh3hh4wlm.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Abenteuer",
-                "Animation",
-                "Science Fiction"
-            ],
-            "published": "2024-04-18T16:19:41+02:00",
-            "views": 312654
-        },
-        {
-            "id": "91",
-            "youtube_video_id": "V5TnSxuIsa0",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/V5TnSxuIsa0/maxresdefault.jpg",
-            "title": "SAW X Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/jw4tzznr2z.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Horror",
-                "Thriller"
-            ],
-            "published": "2023-07-31T12:12:22+02:00",
-            "views": 990678
-        },
-        {
-            "id": "92",
-            "youtube_video_id": "IUqVTXPMhMs",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/IUqVTXPMhMs/maxresdefault.jpg",
-            "title": "THE PENGUIN Trailer 2 German Deutsch (2024) Colin Farrell",
-            "thumbnail": "https://cdn.kinocheck.com/i/m8e32t7l2p.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Krimi",
-                "Drama"
-            ],
-            "published": "2024-07-28T03:01:21+02:00",
-            "views": 45302
-        },
-        {
-            "id": "93",
-            "youtube_video_id": "m9XO04i0eOU",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/m9XO04i0eOU/maxresdefault.jpg",
-            "title": "DIE TRIBUTE VON PANEM 5: The Ballad of Songbirds and Snakes Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/dwtno43igf.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Science Fiction",
-                "Action",
-                "Drama"
-            ],
-            "published": "2023-04-28T07:35:57+02:00",
-            "views": 1179307
-        },
-        {
-            "id": "94",
-            "youtube_video_id": "AeOhjBGHiwA",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/AeOhjBGHiwA/maxresdefault.jpg",
-            "title": "TRAP: No Way Out Trailer 2 German Deutsch (2024) Josh Hartnett",
-            "thumbnail": "https://cdn.kinocheck.com/i/hiu728mk13.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Thriller",
-                "Musik",
-                "Mystery"
-            ],
-            "published": "2024-07-01T17:10:31+02:00",
-            "views": 110343
-        },
-        {
-            "id": "95",
-            "youtube_video_id": "D-hJg_LkK_c",
-            "youtube_channel_id": "UCV297SPE0sBWzmhmACKJP-w",
-            "youtube_thumbnail": "https://img.youtube.com/vi/D-hJg_LkK_c/maxresdefault.jpg",
-            "title": "THOSE ABOUT TO DIE Trailer German Deutsch (2024) Anthony Hopkins",
-            "thumbnail": "https://cdn.kinocheck.com/i/qdf0sab70k.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Drama"
-            ],
-            "published": "2024-06-13T17:45:30+02:00",
-            "views": 153200
-        },
-        {
-            "id": "96",
-            "youtube_video_id": "n28F6vZClqI",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/n28F6vZClqI/maxresdefault.jpg",
-            "title": "GODZILLA X KONG: The New Empire Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/33fl4uhc6c.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Abenteuer",
-                "Fantasy",
-                "Science Fiction"
-            ],
-            "published": "2023-12-03T22:04:09+01:00",
-            "views": 614782
-        },
-        {
-            "id": "97",
-            "youtube_video_id": "HWozlXaoPU4",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/HWozlXaoPU4/maxresdefault.jpg",
-            "title": "GUARDIANS OF THE GALAXY 3 Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/k2iub6gtrb.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Superhero",
-                "Abenteuer",
-                "Action",
-                "Komödie",
-                "Science Fiction",
-                "Thriller"
-            ],
-            "published": "2022-12-01T23:41:55+01:00",
-            "views": 1495820
-        },
-        {
-            "id": "98",
-            "youtube_video_id": "UyZQNqYmCd8",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/UyZQNqYmCd8/maxresdefault.jpg",
-            "title": "PLANET DER AFFEN 4: New Kingdom Trailer German Deutsch (2024)",
-            "thumbnail": "https://cdn.kinocheck.com/i/12l4iarqs3.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Action",
-                "Science Fiction"
-            ],
-            "published": "2023-11-02T16:55:16+01:00",
-            "views": 688325
-        },
-        {
-            "id": "99",
-            "youtube_video_id": "cE331qh3jYs",
-            "youtube_channel_id": "UCOL10n-as9dXO2qtjjFUQbQ",
-            "youtube_thumbnail": "https://img.youtube.com/vi/cE331qh3jYs/maxresdefault.jpg",
-            "title": "OPPENHEIMER Trailer German Deutsch (2023)",
-            "thumbnail": "https://cdn.kinocheck.com/i/app1m37la5.jpg",
-            "language": "de",
-            "categories": [
-                "Trailer"
-            ],
-            "genres": [
-                "Drama",
-                "Historie",
-                "Kriegsfilm"
-            ],
-            "published": "2022-12-19T01:39:36+01:00",
-            "views": 1444773
-        }
-    ]
-}
+    "posts": [
+    {
+    "id": "e3152105-901c-4915-99bb-3bb90845d92a",
+    "friendlyId": "fuzzy-fireant-2",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "\n<button id=\"bottone1\"><strong>Discover features</strong></button>",
+    "css": "#bottone1 {\n padding-left: 33px;\n padding-right: 33px;\n padding-bottom: 16px;\n padding-top: 16px;\n border-radius: 9px;\n background: #d5f365;\n border: none;\n font-family: inherit;\n text-align: center;\n cursor: pointer;\n transition: 0.4s;\n}\n\n#bottone1:hover {\n box-shadow: 7px 5px 56px -14px #C3D900;\n}\n\n#bottone1:active {\n transform: scale(0.97);\n box-shadow: 7px 5px 56px -10px #C3D900;\n}",
+    "theme": "dark",
+    "type": "button",
+    "viewCount": 11127,
+    "originalPostId": null,
+    "user": {
+    "username": "Custyyyy",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 191,
+    "variations": 0
+    }
+    },
+    {
+    "id": "0cdfb624-a0c7-405a-913b-bb4eacacb6a2",
+    "friendlyId": "honest-stingray-90",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<label class=\"switch\">\n  <span class=\"sun\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g fill=\"#ffd43b\"><circle r=\"5\" cy=\"12\" cx=\"12\"></circle><path d=\"m21 13h-1a1 1 0 0 1 0-2h1a1 1 0 0 1 0 2zm-17 0h-1a1 1 0 0 1 0-2h1a1 1 0 0 1 0 2zm13.66-5.66a1 1 0 0 1 -.66-.29 1 1 0 0 1 0-1.41l.71-.71a1 1 0 1 1 1.41 1.41l-.71.71a1 1 0 0 1 -.75.29zm-12.02 12.02a1 1 0 0 1 -.71-.29 1 1 0 0 1 0-1.41l.71-.66a1 1 0 0 1 1.41 1.41l-.71.71a1 1 0 0 1 -.7.24zm6.36-14.36a1 1 0 0 1 -1-1v-1a1 1 0 0 1 2 0v1a1 1 0 0 1 -1 1zm0 17a1 1 0 0 1 -1-1v-1a1 1 0 0 1 2 0v1a1 1 0 0 1 -1 1zm-5.66-14.66a1 1 0 0 1 -.7-.29l-.71-.71a1 1 0 0 1 1.41-1.41l.71.71a1 1 0 0 1 0 1.41 1 1 0 0 1 -.71.29zm12.02 12.02a1 1 0 0 1 -.7-.29l-.66-.71a1 1 0 0 1 1.36-1.36l.71.71a1 1 0 0 1 0 1.41 1 1 0 0 1 -.71.24z\"></path></g></svg></span>\n  <span class=\"moon\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path d=\"m223.5 32c-123.5 0-223.5 100.3-223.5 224s100 224 223.5 224c60.6 0 115.5-24.2 155.8-63.4 5-4.9 6.3-12.5 3.1-18.7s-10.1-9.7-17-8.5c-9.8 1.7-19.8 2.6-30.1 2.6-96.9 0-175.5-78.8-175.5-176 0-65.8 36-123.1 89.3-153.3 6.1-3.5 9.2-10.5 7.7-17.3s-7.3-11.9-14.3-12.5c-6.3-.5-12.6-.8-19-.8z\"></path></svg></span>   \n  <input type=\"checkbox\" class=\"input\">\n  <span class=\"slider\"></span>\n</label>",
+    "css": ".switch {\n  font-size: 17px;\n  position: relative;\n  display: inline-block;\n  width: 64px;\n  height: 34px;\n}\n\n.switch input {\n  opacity: 0;\n  width: 0;\n  height: 0;\n}\n\n.slider {\n  position: absolute;\n  cursor: pointer;\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  background-color: #73C0FC;\n  transition: .4s;\n  border-radius: 30px;\n}\n\n.slider:before {\n  position: absolute;\n  content: \"\";\n  height: 30px;\n  width: 30px;\n  border-radius: 20px;\n  left: 2px;\n  bottom: 2px;\n  z-index: 2;\n  background-color: #e8e8e8;\n  transition: .4s;\n}\n\n.sun svg {\n  position: absolute;\n  top: 6px;\n  left: 36px;\n  z-index: 1;\n  width: 24px;\n  height: 24px;\n}\n\n.moon svg {\n  fill: #73C0FC;\n  position: absolute;\n  top: 5px;\n  left: 5px;\n  z-index: 1;\n  width: 24px;\n  height: 24px;\n}\n\n/* .switch:hover */.sun svg {\n  animation: rotate 15s linear infinite;\n}\n\n@keyframes rotate {\n \n  0% {\n    transform: rotate(0);\n  }\n\n  100% {\n    transform: rotate(360deg);\n  }\n}\n\n/* .switch:hover */.moon svg {\n  animation: tilt 5s linear infinite;\n}\n\n@keyframes tilt {\n \n  0% {\n    transform: rotate(0deg);\n  }\n\n  25% {\n    transform: rotate(-10deg);\n  }\n\n  75% {\n    transform: rotate(10deg);\n  }\n\n  100% {\n    transform: rotate(0deg);\n  }\n}\n\n.input:checked + .slider {\n  background-color: #183153;\n}\n\n.input:focus + .slider {\n  box-shadow: 0 0 1px #183153;\n}\n\n.input:checked + .slider:before {\n  transform: translateX(30px);\n}",
+    "theme": "light",
+    "type": "switch",
+    "viewCount": 21785,
+    "originalPostId": null,
+    "user": {
+    "username": "andrew-demchenk0",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 774,
+    "variations": 0
+    }
+    },
+    {
+    "id": "258a5380-1f8c-4b24-afb7-be5c60a265f3",
+    "friendlyId": "friendly-dragon-76",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button class=\"btn\"> Button\n</button>",
+    "css": ".btn {\n position: relative;\n font-size: 17px;\n text-transform: uppercase;\n text-decoration: none;\n padding: 1em 2.5em;\n display: inline-block;\n border-radius: 6em;\n transition: all .2s;\n border: none;\n font-family: inherit;\n font-weight: 500;\n color: black;\n background-color: white;\n}\n\n.btn:hover {\n transform: translateY(-3px);\n box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);\n}\n\n.btn:active {\n transform: translateY(-1px);\n box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);\n}\n\n.btn::after {\n content: \"\";\n display: inline-block;\n height: 100%;\n width: 100%;\n border-radius: 100px;\n position: absolute;\n top: 0;\n left: 0;\n z-index: -1;\n transition: all .4s;\n}\n\n.btn::after {\n background-color: #fff;\n}\n\n.btn:hover::after {\n transform: scaleX(1.4) scaleY(1.6);\n opacity: 0;\n}",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 22464,
+    "originalPostId": null,
+    "user": {
+    "username": "cssbuttons-io",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 353,
+    "variations": 1
+    }
+    },
+    {
+    "id": "2cc5c1a9-75f3-4ed4-bc0c-54cda9e4db7c",
+    "friendlyId": "calm-tiger-42",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button class=\"button\">Get in touch</button>\n",
+    "css": ".button {\n  display: inline-block;\n  padding: 12px 24px;\n  border: 1px solid #4f4f4f;\n  border-radius: 4px;\n  transition: all 0.2s ease-in;\n  position: relative;\n  overflow: hidden;\n  font-size: 19px;\n  cursor: pointer;\n  color: black;\n  z-index: 1;\n}\n\n.button:before {\n  content: \"\";\n  position: absolute;\n  left: 50%;\n  transform: translateX(-50%) scaleY(1) scaleX(1.25);\n  top: 100%;\n  width: 140%;\n  height: 180%;\n  background-color: rgba(0, 0, 0, 0.05);\n  border-radius: 50%;\n  display: block;\n  transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);\n  z-index: -1;\n}\n\n.button:after {\n  content: \"\";\n  position: absolute;\n  left: 55%;\n  transform: translateX(-50%) scaleY(1) scaleX(1.45);\n  top: 180%;\n  width: 160%;\n  height: 190%;\n  background-color: #39bda7;\n  border-radius: 50%;\n  display: block;\n  transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);\n  z-index: -1;\n}\n\n.button:hover {\n  color: #ffffff;\n  border: 1px solid #39bda7;\n}\n\n.button:hover:before {\n  top: -35%;\n  background-color: #39bda7;\n  transform: translateX(-50%) scaleY(1.3) scaleX(0.8);\n}\n\n.button:hover:after {\n  top: -45%;\n  background-color: #39bda7;\n  transform: translateX(-50%) scaleY(1.3) scaleX(0.8);\n}\n",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 21985,
+    "originalPostId": null,
+    "user": {
+    "username": "cssbuttons-io",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 286,
+    "variations": 0
+    }
+    },
+    {
+    "id": "0415ef53-bc0d-4b42-8dea-f9616d8a6431",
+    "friendlyId": "jolly-kangaroo-36",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<div class=\"newtons-cradle\">\n<div class=\"newtons-cradle__dot\"></div>\n<div class=\"newtons-cradle__dot\"></div>\n<div class=\"newtons-cradle__dot\"></div>\n<div class=\"newtons-cradle__dot\"></div>\n</div>",
+    "css": ".newtons-cradle {\n --uib-size: 50px;\n --uib-speed: 1.2s;\n --uib-color: #474554;\n position: relative;\n display: flex;\n align-items: center;\n justify-content: center;\n width: var(--uib-size);\n height: var(--uib-size);\n}\n\n.newtons-cradle__dot {\n position: relative;\n display: flex;\n align-items: center;\n height: 100%;\n width: 25%;\n transform-origin: center top;\n}\n\n.newtons-cradle__dot::after {\n content: '';\n display: block;\n width: 100%;\n height: 25%;\n border-radius: 50%;\n background-color: var(--uib-color);\n}\n\n.newtons-cradle__dot:first-child {\n animation: swing var(--uib-speed) linear infinite;\n}\n\n.newtons-cradle__dot:last-child {\n animation: swing2 var(--uib-speed) linear infinite;\n}\n\n@keyframes swing {\n 0% {\n  transform: rotate(0deg);\n  animation-timing-function: ease-out;\n }\n\n 25% {\n  transform: rotate(70deg);\n  animation-timing-function: ease-in;\n }\n\n 50% {\n  transform: rotate(0deg);\n  animation-timing-function: linear;\n }\n}\n\n@keyframes swing2 {\n 0% {\n  transform: rotate(0deg);\n  animation-timing-function: linear;\n }\n\n 50% {\n  transform: rotate(0deg);\n  animation-timing-function: ease-out;\n }\n\n 75% {\n  transform: rotate(-70deg);\n  animation-timing-function: ease-in;\n }\n}\n",
+    "theme": "light",
+    "type": "loader",
+    "viewCount": 17566,
+    "originalPostId": null,
+    "user": {
+    "username": "G4b413l",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 794,
+    "variations": 0
+    }
+    },
+    {
+    "id": "d73e114e-5811-42fb-92d5-f151919e69f0",
+    "friendlyId": "stale-baboon-45",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button class=\"button\">\n  <span class=\"button-content\">Download </span>\n</button>\n",
+    "css": ".button {\n  position: relative;\n  overflow: hidden;\n  height: 3rem;\n  padding: 0 2rem;\n  border-radius: 1.5rem;\n  background: #3d3a4e;\n  background-size: 400%;\n  color: #fff;\n  border: none;\n  cursor: pointer;\n}\n\n.button:hover::before {\n  transform: scaleX(1);\n}\n\n.button-content {\n  position: relative;\n  z-index: 1;\n}\n\n.button::before {\n  content: \"\";\n  position: absolute;\n  top: 0;\n  left: 0;\n  transform: scaleX(0);\n  transform-origin: 0 50%;\n  width: 100%;\n  height: inherit;\n  border-radius: inherit;\n  background: linear-gradient(\n    82.3deg,\n    rgba(150, 93, 233, 1) 10.8%,\n    rgba(99, 88, 238, 1) 94.3%\n  );\n  transition: all 0.475s;\n}\n",
+    "theme": "dark",
+    "type": "button",
+    "viewCount": 24736,
+    "originalPostId": null,
+    "user": {
+    "username": "Madflows",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 560,
+    "variations": 1
+    }
+    },
+    {
+    "id": "6e308084-cad6-4d97-bfdc-e9f487cce735",
+    "friendlyId": "jolly-emu-80",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<div class=\"input-group\">\n    <label class=\"label\">Email address</label>\n    <input autocomplete=\"off\" name=\"Email\" id=\"Email\" class=\"input\" type=\"email\">\n    <div></div></div>",
+    "css": ".input {\n  max-width: 190px;\n  height: 44px;\n  background-color: #05060f0a;\n  border-radius: .5rem;\n  padding: 0 1rem;\n  border: 2px solid transparent;\n  font-size: 1rem;\n  transition: border-color .3s cubic-bezier(.25,.01,.25,1) 0s, color .3s cubic-bezier(.25,.01,.25,1) 0s,background .2s cubic-bezier(.25,.01,.25,1) 0s;\n}\n\n.label {\n  display: block;\n  margin-bottom: .3rem;\n  font-size: .9rem;\n  font-weight: bold;\n  color: #05060f99;\n  transition: color .3s cubic-bezier(.25,.01,.25,1) 0s;\n}\n\n.input:hover, .input:focus, .input-group:hover .input {\n  outline: none;\n  border-color: #05060f;\n}\n\n.input-group:hover .label, .input:focus {\n  color: #05060fc2;\n}",
+    "theme": "light",
+    "type": "input",
+    "viewCount": 22971,
+    "originalPostId": null,
+    "user": {
+    "username": "alexruix",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 274,
+    "variations": 0
+    }
+    },
+    {
+    "id": "5df8725a-20a6-4895-8238-7538f66039f4",
+    "friendlyId": "bitter-impala-54",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button>\n    <span class=\"box\">\n        Hover!\n    </span>\n</button>",
+    "css": ".box {\n  width: 140px;\n  height: auto;\n  float: left;\n  transition: .5s linear;\n  position: relative;\n  display: block;\n  overflow: hidden;\n  padding: 15px;\n  text-align: center;\n  margin: 0 5px;\n  background: transparent;\n  text-transform: uppercase;\n  font-weight: 900;\n}\n\n.box:before {\n  position: absolute;\n  content: '';\n  left: 0;\n  bottom: 0;\n  height: 4px;\n  width: 100%;\n  border-bottom: 4px solid transparent;\n  border-left: 4px solid transparent;\n  box-sizing: border-box;\n  transform: translateX(100%);\n}\n\n.box:after {\n  position: absolute;\n  content: '';\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 4px;\n  border-top: 4px solid transparent;\n  border-right: 4px solid transparent;\n  box-sizing: border-box;\n  transform: translateX(-100%);\n}\n\n.box:hover {\n  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);\n}\n\n.box:hover:before {\n  border-color: #262626;\n  height: 100%;\n  transform: translateX(0);\n  transition: .3s transform linear, .3s height linear .3s;\n}\n\n.box:hover:after {\n  border-color: #262626;\n  height: 100%;\n  transform: translateX(0);\n  transition: .3s transform linear, .3s height linear .5s;\n}\n\nbutton {\n  color: black;\n  text-decoration: none;\n  cursor: pointer;\n  outline: none;\n  border: none;\n  background: transparent;\n}",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 15260,
+    "originalPostId": null,
+    "user": {
+    "username": "Cornerstone-04",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 428,
+    "variations": 0
+    }
+    },
+    {
+    "id": "85b437f7-bd94-40b3-9a00-033b550f76fe",
+    "friendlyId": "witty-fly-56",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<div class=\"container\">\n<label class=\"switch\">\n  <input class=\"togglesw\" type=\"checkbox\" checked=\"\">\n  <div class=\"indicator left\"></div>\n  <div class=\"indicator right\"></div>\n  <div class=\"button\"></div>\n</label>\n</div>",
+    "css": ".container {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  --hue: 220deg;\n  --width: 15rem;\n  --accent-hue: 22deg;\n  --duration: 0.6s;\n  --easing: cubic-bezier(1, 0, 1, 1);\n}\n\n.togglesw {\n  display: none;\n}\n\n.switch {\n  --shadow-offset: calc(var(--width) / 20);\n  position: relative;\n  cursor: pointer;\n  display: flex;\n  align-items: center;\n  width: var(--width);\n  height: calc(var(--width) / 2.5);\n  border-radius: var(--width);\n  box-shadow: inset 10px 10px 10px hsl(var(--hue) 20% 80%),\n    inset -10px -10px 10px hsl(var(--hue) 20% 93%);\n}\n\n.indicator {\n  content: '';\n  position: absolute;\n  width: 40%;\n  height: 60%;\n  transition: all var(--duration) var(--easing);\n  box-shadow: inset 0 0 2px hsl(var(--hue) 20% 15% / 60%),\n    inset 0 0 3px 2px hsl(var(--hue) 20% 15% / 60%),\n    inset 0 0 5px 2px hsl(var(--hue) 20% 45% / 60%);\n}\n\n.indicator.left {\n  --hue: var(--accent-hue);\n  overflow: hidden;\n  left: 10%;\n  border-radius: 100px 0 0 100px;\n  background: linear-gradient(180deg, hsl(calc(var(--accent-hue) + 20deg) 95% 80%) 10%, hsl(calc(var(--accent-hue) + 20deg) 100% 60%) 30%, hsl(var(--accent-hue) 90% 50%) 60%, hsl(var(--accent-hue) 90% 60%) 75%, hsl(var(--accent-hue) 90% 50%));\n}\n\n.indicator.left::after {\n  content: '';\n  position: absolute;\n  opacity: 0.6;\n  width: 100%;\n  height: 100%;\n}\n\n.indicator.right {\n  right: 10%;\n  border-radius: 0 100px 100px 0;\n  background-image: linear-gradient(180deg, hsl(var(--hue) 20% 95%), hsl(var(--hue) 20% 65%) 60%, hsl(var(--hue) 20% 70%) 70%, hsl(var(--hue) 20% 65%));\n}\n\n.button {\n  position: absolute;\n  z-index: 1;\n  width: 55%;\n  height: 80%;\n  left: 5%;\n  border-radius: 100px;\n  background-image: linear-gradient(160deg, hsl(var(--hue) 20% 95%) 40%, hsl(var(--hue) 20% 65%) 70%);\n  transition: all var(--duration) var(--easing);\n  box-shadow: 2px 2px 3px hsl(var(--hue) 18% 50% / 80%),\n    2px 2px 6px hsl(var(--hue) 18% 50% / 40%),\n    10px 20px 10px hsl(var(--hue) 18% 50% / 40%),\n    20px 30px 30px hsl(var(--hue) 18% 50% / 60%);\n}\n\n.button::before, \n.button::after {\n  content: '';\n  position: absolute;\n  top: 10%;\n  width: 41%;\n  height: 80%;\n  border-radius: 100%;\n}\n\n.button::before {\n  left: 5%;\n  box-shadow: inset 1px 1px 2px hsl(var(--hue) 20% 85%);\n  background-image: linear-gradient(-50deg, hsl(var(--hue) 20% 95%) 20%, hsl(var(--hue) 20% 85%) 80%);\n}\n\n.button::after {\n  right: 5%;\n  box-shadow: inset 1px 1px 3px hsl(var(--hue) 20% 70%);\n  background-image: linear-gradient(-50deg, hsl(var(--hue) 20% 95%) 20%, hsl(var(--hue) 20% 75%) 80%);\n}\n\n.togglesw:checked ~ .button {\n  left: 40%;\n}\n\n.togglesw:not(:checked) ~ .indicator.left,\n.togglesw:checked ~ .indicator.right {\n  box-shadow: inset 0 0 5px hsl(var(--hue) 20% 15% / 100%),\n    inset 20px 20px 10px hsl(var(--hue) 20% 15% / 100%),\n    inset 20px 20px 15px hsl(var(--hue) 20% 45% / 100%);\n}",
+    "theme": "light",
+    "type": "switch",
+    "viewCount": 8001,
+    "originalPostId": null,
+    "user": {
+    "username": "csemszepp",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 119,
+    "variations": 0
+    }
+    },
+    {
+    "id": "93a1786c-ee6c-4ca8-9e30-b221cca8746e",
+    "friendlyId": "funny-ape-73",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button>Click Me</button>\n",
+    "css": "button,\nbutton:focus {\n  font-size: 17px;\n  padding: 10px 25px;\n  border-radius: 0.7rem;\n  background-image: linear-gradient(rgb(214, 202, 254), rgb(158, 129, 254));\n  border: 2px solid rgb(50, 50, 50);\n  border-bottom: 5px solid rgb(50, 50, 50);\n  box-shadow: 0px 1px 6px 0px rgb(158, 129, 254);\n  transform: translate(0, -3px);\n  cursor: pointer;\n  transition: 0.2s;\n  transition-timing-function: linear;\n}\n\nbutton:active {\n  transform: translate(0, 0);\n  border-bottom: 2px solid rgb(50, 50, 50);\n}\n",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 16015,
+    "originalPostId": null,
+    "user": {
+    "username": "hakemdamer222",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 50,
+    "variations": 1
+    }
+    },
+    {
+    "id": "07d2e1c0-43cf-4d03-9a11-5df7253edb3f",
+    "friendlyId": "shaggy-grasshopper-91",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button class=\"cssbuttons-io-button\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path fill=\"none\" d=\"M0 0h24v24H0z\"></path><path fill=\"currentColor\" d=\"M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2z\"></path></svg>\n  <span>Add</span>\n</button>",
+    "css": ".cssbuttons-io-button {\n  display: flex;\n  align-items: center;\n  font-family: inherit;\n  font-weight: 500;\n  font-size: 16px;\n  padding: 0.7em 1.4em 0.7em 1.1em;\n  color: white;\n  background: #ad5389;\n  background: linear-gradient(0deg, rgba(20,167,62,1) 0%, rgba(102,247,113,1) 100%);\n  border: none;\n  box-shadow: 0 0.7em 1.5em -0.5em #14a73e98;\n  letter-spacing: 0.05em;\n  border-radius: 20em;\n}\n\n.cssbuttons-io-button svg {\n  margin-right: 6px;\n}\n\n.cssbuttons-io-button:hover {\n  box-shadow: 0 0.5em 1.5em -0.5em #14a73e98;\n}\n\n.cssbuttons-io-button:active {\n  box-shadow: 0 0.3em 1em -0.5em #14a73e98;\n}",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 20632,
+    "originalPostId": null,
+    "user": {
+    "username": "adamgiebl",
+    "subscription": "pro_plus"
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 161,
+    "variations": 1
+    }
+    },
+    {
+    "id": "77aa6619-ffc8-45a2-8c28-b70d466415ce",
+    "friendlyId": "slippery-jellyfish-67",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button>Hover me</button>\n",
+    "css": "button {\n  --color: #560bad;\n  font-family: inherit;\n  display: inline-block;\n  width: 8em;\n  height: 2.6em;\n  line-height: 2.5em;\n  margin: 20px;\n  position: relative;\n  cursor: pointer;\n  overflow: hidden;\n  border: 2px solid var(--color);\n  transition: color 0.5s;\n  z-index: 1;\n  font-size: 17px;\n  border-radius: 6px;\n  font-weight: 500;\n  color: var(--color);\n}\n\nbutton:before {\n  content: \"\";\n  position: absolute;\n  z-index: -1;\n  background: var(--color);\n  height: 150px;\n  width: 200px;\n  border-radius: 50%;\n}\n\nbutton:hover {\n  color: #fff;\n}\n\nbutton:before {\n  top: 100%;\n  left: 100%;\n  transition: all 0.7s;\n}\n\nbutton:hover:before {\n  top: -30px;\n  left: -30px;\n}\n\nbutton:active:before {\n  background: #3a0ca3;\n  transition: background 0s;\n}\n",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 28144,
+    "originalPostId": null,
+    "user": {
+    "username": "cssbuttons-io",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 424,
+    "variations": 0
+    }
+    },
+    {
+    "id": "e73fd0a9-3769-4b41-9ad1-cbd08f85aec2",
+    "friendlyId": "dull-ladybug-18",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button class=\"reward-btn\">\n  <span class=\"IconContainer\">\n    <svg\n      xmlns=\"http://www.w3.org/2000/svg\"\n      fill=\"none\"\n      viewBox=\"0 0 60 20\"\n      class=\"box-top box\"\n    >\n      <path\n        stroke-linecap=\"round\"\n        stroke-width=\"4\"\n        stroke=\"#6A8EF6\"\n        d=\"M2 18L58 18\"\n      ></path>\n      <circle\n        stroke-width=\"5\"\n        stroke=\"#6A8EF6\"\n        fill=\"#101218\"\n        r=\"7\"\n        cy=\"9.5\"\n        cx=\"20.5\"\n      ></circle>\n      <circle\n        stroke-width=\"5\"\n        stroke=\"#6A8EF6\"\n        fill=\"#101218\"\n        r=\"7\"\n        cy=\"9.5\"\n        cx=\"38.5\"\n      ></circle>\n    </svg>\n\n    <svg\n      xmlns=\"http://www.w3.org/2000/svg\"\n      fill=\"none\"\n      viewBox=\"0 0 58 44\"\n      class=\"box-body box\"\n    >\n      <mask fill=\"white\" id=\"path-1-inside-1_81_19\">\n        <rect rx=\"3\" height=\"44\" width=\"58\"></rect>\n      </mask>\n      <rect\n        mask=\"url(#path-1-inside-1_81_19)\"\n        stroke-width=\"8\"\n        stroke=\"#6A8EF6\"\n        fill=\"#101218\"\n        rx=\"3\"\n        height=\"44\"\n        width=\"58\"\n      ></rect>\n      <line\n        stroke-width=\"6\"\n        stroke=\"#6A8EF6\"\n        y2=\"29\"\n        x2=\"58\"\n        y1=\"29\"\n        x1=\"-3.61529e-09\"\n      ></line>\n      <path\n        stroke-linecap=\"round\"\n        stroke-width=\"5\"\n        stroke=\"#6A8EF6\"\n        d=\"M45.0005 20L36 3\"\n      ></path>\n      <path\n        stroke-linecap=\"round\"\n        stroke-width=\"5\"\n        stroke=\"#6A8EF6\"\n        d=\"M21 3L13.0002 19.9992\"\n      ></path>\n    </svg>\n\n    <span class=\"coin\"></span>\n  </span>\n  <span class=\"text\">Rewards</span>\n</button>\n",
+    "css": ".reward-btn {\n  width: 120px;\n  height: 40px;\n  background-color: #101218;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  border: none;\n  border-radius: 8px;\n  cursor: pointer;\n  transition: all 0.3s;\n}\n.IconContainer {\n  width: 40px;\n  height: 40px;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  position: relative;\n}\n.IconContainer svg {\n  width: 40%;\n  z-index: 3;\n}\n.box-top {\n  transition: all 0.3s;\n}\n.text {\n  width: 70px;\n  height: 100%;\n  font-size: 13px;\n  color: #6a8ef6;\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n  font-weight: 600;\n}\n.reward-btn:hover .IconContainer .box-top {\n  transform: translateY(-5px);\n}\n.reward-btn:hover {\n  background-color: #202531;\n}\n.reward-btn:hover .coin {\n  transform: translateY(-5px);\n  transition-delay: 0.2s;\n}\n.coin {\n  width: 25%;\n  height: 25%;\n  background-color: #e4d61a;\n  position: absolute;\n  border-radius: 50%;\n  transition: all 0.3s;\n  z-index: 1;\n  border: 2px solid #ffe956;\n  margin-top: 4px;\n}\n",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 1661,
+    "originalPostId": null,
+    "user": {
+    "username": "vinodjangid07",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 112,
+    "variations": 0
+    }
+    },
+    {
+    "id": "29a28f1a-6bf2-40dc-a0ab-02b8e526c6e1",
+    "friendlyId": "plastic-rattlesnake-49",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": true,
+    "html": "<div class=\"flex items-center justify-center p-5\">\n  <div class=\"rounded-lg bg-gray-200 p-5\">\n    <div class=\"flex\">\n      <div class=\"flex w-10 items-center justify-center rounded-tl-lg rounded-bl-lg border-r border-gray-200 bg-white p-5\">\n        <svg viewBox=\"0 0 20 20\" aria-hidden=\"true\" class=\"pointer-events-none absolute w-5 fill-gray-500 transition\">\n          <path d=\"M16.72 17.78a.75.75 0 1 0 1.06-1.06l-1.06 1.06ZM9 14.5A5.5 5.5 0 0 1 3.5 9H2a7 7 0 0 0 7 7v-1.5ZM3.5 9A5.5 5.5 0 0 1 9 3.5V2a7 7 0 0 0-7 7h1.5ZM9 3.5A5.5 5.5 0 0 1 14.5 9H16a7 7 0 0 0-7-7v1.5Zm3.89 10.45 3.83 3.83 1.06-1.06-3.83-3.83-1.06 1.06ZM14.5 9a5.48 5.48 0 0 1-1.61 3.89l1.06 1.06A6.98 6.98 0 0 0 16 9h-1.5Zm-1.61 3.89A5.48 5.48 0 0 1 9 14.5V16a6.98 6.98 0 0 0 4.95-2.05l-1.06-1.06Z\"></path>\n        </svg>\n      </div>\n      <input type=\"text\" class=\"w-full max-w-[160px] bg-white pl-2 text-base font-semibold outline-0\" placeholder=\"\" id=\"\">\n      <input type=\"button\" value=\"Search\" class=\"bg-blue-500 p-2 rounded-tr-lg rounded-br-lg text-white font-semibold hover:bg-blue-800 transition-colors\">\n    </div>\n  </div>\n</div>",
+    "css": ".pointer-events-none{pointer-events:none}.absolute{position:absolute}.flex{display:flex}.w-10{width:2.5rem}.w-5{width:1.25rem}.w-full{width:100%}.max-w-\\[160px\\]{max-width:160px}.items-center{align-items:center}.justify-center{justify-content:center}.rounded-lg{border-radius:0.5rem}.rounded-bl-lg{border-bottom-left-radius:0.5rem}.rounded-br-lg{border-bottom-right-radius:0.5rem}.rounded-tl-lg{border-top-left-radius:0.5rem}.rounded-tr-lg{border-top-right-radius:0.5rem}.border-r{border-right-width:1px}.border-gray-200{--tw-border-opacity:1;border-color:rgb(229 231 235 / var(--tw-border-opacity))}.bg-blue-500{--tw-bg-opacity:1;background-color:rgb(59 130 246 / var(--tw-bg-opacity))}.bg-gray-200{--tw-bg-opacity:1;background-color:rgb(229 231 235 / var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity))}.fill-gray-500{fill:#6b7280}.p-2{padding:0.5rem}.p-5{padding:1.25rem}.pl-2{padding-left:0.5rem}.text-base{font-size:1rem;line-height:1.5rem}.font-semibold{font-weight:600}.text-white{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.outline-0{outline-width:0px}.transition{transition-property:color, background-color, border-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-text-decoration-color, -webkit-backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.transition-colors{transition-property:color, background-color, border-color, fill, stroke, -webkit-text-decoration-color;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, -webkit-text-decoration-color;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.hover\\:bg-blue-800:hover{--tw-bg-opacity:1;background-color:rgb(30 64 175 / var(--tw-bg-opacity))}",
+    "theme": "light",
+    "type": "input",
+    "viewCount": 11492,
+    "originalPostId": null,
+    "user": {
+    "username": "emmanuelh-dev",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 161,
+    "variations": 0
+    }
+    },
+    {
+    "id": "3126d318-7edd-4f54-8d4b-2eec4d0607b5",
+    "friendlyId": "strong-squid-82",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<label class=\"theme-switch\">\n  <input type=\"checkbox\" class=\"theme-switch__checkbox\">\n  <div class=\"theme-switch__container\">\n    <div class=\"theme-switch__clouds\"></div>\n    <div class=\"theme-switch__stars-container\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 144 55\" fill=\"none\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M135.831 3.00688C135.055 3.85027 134.111 4.29946 133 4.35447C134.111 4.40947 135.055 4.85867 135.831 5.71123C136.607 6.55462 136.996 7.56303 136.996 8.72727C136.996 7.95722 137.172 7.25134 137.525 6.59129C137.886 5.93124 138.372 5.39954 138.98 5.00535C139.598 4.60199 140.268 4.39114 141 4.35447C139.88 4.2903 138.936 3.85027 138.16 3.00688C137.384 2.16348 136.996 1.16425 136.996 0C136.996 1.16425 136.607 2.16348 135.831 3.00688ZM31 23.3545C32.1114 23.2995 33.0551 22.8503 33.8313 22.0069C34.6075 21.1635 34.9956 20.1642 34.9956 19C34.9956 20.1642 35.3837 21.1635 36.1599 22.0069C36.9361 22.8503 37.8798 23.2903 39 23.3545C38.2679 23.3911 37.5976 23.602 36.9802 24.0053C36.3716 24.3995 35.8864 24.9312 35.5248 25.5913C35.172 26.2513 34.9956 26.9572 34.9956 27.7273C34.9956 26.563 34.6075 25.5546 33.8313 24.7112C33.0551 23.8587 32.1114 23.4095 31 23.3545ZM0 36.3545C1.11136 36.2995 2.05513 35.8503 2.83131 35.0069C3.6075 34.1635 3.99559 33.1642 3.99559 32C3.99559 33.1642 4.38368 34.1635 5.15987 35.0069C5.93605 35.8503 6.87982 36.2903 8 36.3545C7.26792 36.3911 6.59757 36.602 5.98015 37.0053C5.37155 37.3995 4.88644 37.9312 4.52481 38.5913C4.172 39.2513 3.99559 39.9572 3.99559 40.7273C3.99559 39.563 3.6075 38.5546 2.83131 37.7112C2.05513 36.8587 1.11136 36.4095 0 36.3545ZM56.8313 24.0069C56.0551 24.8503 55.1114 25.2995 54 25.3545C55.1114 25.4095 56.0551 25.8587 56.8313 26.7112C57.6075 27.5546 57.9956 28.563 57.9956 29.7273C57.9956 28.9572 58.172 28.2513 58.5248 27.5913C58.8864 26.9312 59.3716 26.3995 59.9802 26.0053C60.5976 25.602 61.2679 25.3911 62 25.3545C60.8798 25.2903 59.9361 24.8503 59.1599 24.0069C58.3837 23.1635 57.9956 22.1642 57.9956 21C57.9956 22.1642 57.6075 23.1635 56.8313 24.0069ZM81 25.3545C82.1114 25.2995 83.0551 24.8503 83.8313 24.0069C84.6075 23.1635 84.9956 22.1642 84.9956 21C84.9956 22.1642 85.3837 23.1635 86.1599 24.0069C86.9361 24.8503 87.8798 25.2903 89 25.3545C88.2679 25.3911 87.5976 25.602 86.9802 26.0053C86.3716 26.3995 85.8864 26.9312 85.5248 27.5913C85.172 28.2513 84.9956 28.9572 84.9956 29.7273C84.9956 28.563 84.6075 27.5546 83.8313 26.7112C83.0551 25.8587 82.1114 25.4095 81 25.3545ZM136 36.3545C137.111 36.2995 138.055 35.8503 138.831 35.0069C139.607 34.1635 139.996 33.1642 139.996 32C139.996 33.1642 140.384 34.1635 141.16 35.0069C141.936 35.8503 142.88 36.2903 144 36.3545C143.268 36.3911 142.598 36.602 141.98 37.0053C141.372 37.3995 140.886 37.9312 140.525 38.5913C140.172 39.2513 139.996 39.9572 139.996 40.7273C139.996 39.563 139.607 38.5546 138.831 37.7112C138.055 36.8587 137.111 36.4095 136 36.3545ZM101.831 49.0069C101.055 49.8503 100.111 50.2995 99 50.3545C100.111 50.4095 101.055 50.8587 101.831 51.7112C102.607 52.5546 102.996 53.563 102.996 54.7273C102.996 53.9572 103.172 53.2513 103.525 52.5913C103.886 51.9312 104.372 51.3995 104.98 51.0053C105.598 50.602 106.268 50.3911 107 50.3545C105.88 50.2903 104.936 49.8503 104.16 49.0069C103.384 48.1635 102.996 47.1642 102.996 46C102.996 47.1642 102.607 48.1635 101.831 49.0069Z\" fill=\"currentColor\"></path>\n      </svg>\n    </div>\n    <div class=\"theme-switch__circle-container\">\n      <div class=\"theme-switch__sun-moon-container\">\n        <div class=\"theme-switch__moon\">\n          <div class=\"theme-switch__spot\"></div>\n          <div class=\"theme-switch__spot\"></div>\n          <div class=\"theme-switch__spot\"></div>\n        </div>\n      </div>\n    </div>\n  </div>\n</label>",
+    "css": ".theme-switch {\n  --toggle-size: 30px;\n  /* the size is adjusted using font-size,\n     this is not transform scale,\n     so you can choose any size */\n  --container-width: 5.625em;\n  --container-height: 2.5em;\n  --container-radius: 6.25em;\n  /* radius 0 - minecraft mode :) */\n  --container-light-bg: #3D7EAE;\n  --container-night-bg: #1D1F2C;\n  --circle-container-diameter: 3.375em;\n  --sun-moon-diameter: 2.125em;\n  --sun-bg: #ECCA2F;\n  --moon-bg: #C4C9D1;\n  --spot-color: #959DB1;\n  --circle-container-offset: calc((var(--circle-container-diameter) - var(--container-height)) / 2 * -1);\n  --stars-color: #fff;\n  --clouds-color: #F3FDFF;\n  --back-clouds-color: #AACADF;\n  --transition: .5s cubic-bezier(0, -0.02, 0.4, 1.25);\n  --circle-transition: .3s cubic-bezier(0, -0.02, 0.35, 1.17);\n}\n\n.theme-switch, .theme-switch *, .theme-switch *::before, .theme-switch *::after {\n  -webkit-box-sizing: border-box;\n  box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n  font-size: var(--toggle-size);\n}\n\n.theme-switch__container {\n  width: var(--container-width);\n  height: var(--container-height);\n  background-color: var(--container-light-bg);\n  border-radius: var(--container-radius);\n  overflow: hidden;\n  cursor: pointer;\n  -webkit-box-shadow: 0em -0.062em 0.062em rgba(0, 0, 0, 0.25), 0em 0.062em 0.125em rgba(255, 255, 255, 0.94);\n  box-shadow: 0em -0.062em 0.062em rgba(0, 0, 0, 0.25), 0em 0.062em 0.125em rgba(255, 255, 255, 0.94);\n  -webkit-transition: var(--transition);\n  -o-transition: var(--transition);\n  transition: var(--transition);\n  position: relative;\n}\n\n.theme-switch__container::before {\n  content: \"\";\n  position: absolute;\n  z-index: 1;\n  inset: 0;\n  -webkit-box-shadow: 0em 0.05em 0.187em rgba(0, 0, 0, 0.25) inset, 0em 0.05em 0.187em rgba(0, 0, 0, 0.25) inset;\n  box-shadow: 0em 0.05em 0.187em rgba(0, 0, 0, 0.25) inset, 0em 0.05em 0.187em rgba(0, 0, 0, 0.25) inset;\n  border-radius: var(--container-radius)\n}\n\n.theme-switch__checkbox {\n  display: none;\n}\n\n.theme-switch__circle-container {\n  width: var(--circle-container-diameter);\n  height: var(--circle-container-diameter);\n  background-color: rgba(255, 255, 255, 0.1);\n  position: absolute;\n  left: var(--circle-container-offset);\n  top: var(--circle-container-offset);\n  border-radius: var(--container-radius);\n  -webkit-box-shadow: inset 0 0 0 3.375em rgba(255, 255, 255, 0.1), inset 0 0 0 3.375em rgba(255, 255, 255, 0.1), 0 0 0 0.625em rgba(255, 255, 255, 0.1), 0 0 0 1.25em rgba(255, 255, 255, 0.1);\n  box-shadow: inset 0 0 0 3.375em rgba(255, 255, 255, 0.1), inset 0 0 0 3.375em rgba(255, 255, 255, 0.1), 0 0 0 0.625em rgba(255, 255, 255, 0.1), 0 0 0 1.25em rgba(255, 255, 255, 0.1);\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-transition: var(--circle-transition);\n  -o-transition: var(--circle-transition);\n  transition: var(--circle-transition);\n  pointer-events: none;\n}\n\n.theme-switch__sun-moon-container {\n  pointer-events: auto;\n  position: relative;\n  z-index: 2;\n  width: var(--sun-moon-diameter);\n  height: var(--sun-moon-diameter);\n  margin: auto;\n  border-radius: var(--container-radius);\n  background-color: var(--sun-bg);\n  -webkit-box-shadow: 0.062em 0.062em 0.062em 0em rgba(254, 255, 239, 0.61) inset, 0em -0.062em 0.062em 0em #a1872a inset;\n  box-shadow: 0.062em 0.062em 0.062em 0em rgba(254, 255, 239, 0.61) inset, 0em -0.062em 0.062em 0em #a1872a inset;\n  -webkit-filter: drop-shadow(0.062em 0.125em 0.125em rgba(0, 0, 0, 0.25)) drop-shadow(0em 0.062em 0.125em rgba(0, 0, 0, 0.25));\n  filter: drop-shadow(0.062em 0.125em 0.125em rgba(0, 0, 0, 0.25)) drop-shadow(0em 0.062em 0.125em rgba(0, 0, 0, 0.25));\n  overflow: hidden;\n  -webkit-transition: var(--transition);\n  -o-transition: var(--transition);\n  transition: var(--transition);\n}\n\n.theme-switch__moon {\n  -webkit-transform: translateX(100%);\n  -ms-transform: translateX(100%);\n  transform: translateX(100%);\n  width: 100%;\n  height: 100%;\n  background-color: var(--moon-bg);\n  border-radius: inherit;\n  -webkit-box-shadow: 0.062em 0.062em 0.062em 0em rgba(254, 255, 239, 0.61) inset, 0em -0.062em 0.062em 0em #969696 inset;\n  box-shadow: 0.062em 0.062em 0.062em 0em rgba(254, 255, 239, 0.61) inset, 0em -0.062em 0.062em 0em #969696 inset;\n  -webkit-transition: var(--transition);\n  -o-transition: var(--transition);\n  transition: var(--transition);\n  position: relative;\n}\n\n.theme-switch__spot {\n  position: absolute;\n  top: 0.75em;\n  left: 0.312em;\n  width: 0.75em;\n  height: 0.75em;\n  border-radius: var(--container-radius);\n  background-color: var(--spot-color);\n  -webkit-box-shadow: 0em 0.0312em 0.062em rgba(0, 0, 0, 0.25) inset;\n  box-shadow: 0em 0.0312em 0.062em rgba(0, 0, 0, 0.25) inset;\n}\n\n.theme-switch__spot:nth-of-type(2) {\n  width: 0.375em;\n  height: 0.375em;\n  top: 0.937em;\n  left: 1.375em;\n}\n\n.theme-switch__spot:nth-last-of-type(3) {\n  width: 0.25em;\n  height: 0.25em;\n  top: 0.312em;\n  left: 0.812em;\n}\n\n.theme-switch__clouds {\n  width: 1.25em;\n  height: 1.25em;\n  background-color: var(--clouds-color);\n  border-radius: var(--container-radius);\n  position: absolute;\n  bottom: -0.625em;\n  left: 0.312em;\n  -webkit-box-shadow: 0.937em 0.312em var(--clouds-color), -0.312em -0.312em var(--back-clouds-color), 1.437em 0.375em var(--clouds-color), 0.5em -0.125em var(--back-clouds-color), 2.187em 0 var(--clouds-color), 1.25em -0.062em var(--back-clouds-color), 2.937em 0.312em var(--clouds-color), 2em -0.312em var(--back-clouds-color), 3.625em -0.062em var(--clouds-color), 2.625em 0em var(--back-clouds-color), 4.5em -0.312em var(--clouds-color), 3.375em -0.437em var(--back-clouds-color), 4.625em -1.75em 0 0.437em var(--clouds-color), 4em -0.625em var(--back-clouds-color), 4.125em -2.125em 0 0.437em var(--back-clouds-color);\n  box-shadow: 0.937em 0.312em var(--clouds-color), -0.312em -0.312em var(--back-clouds-color), 1.437em 0.375em var(--clouds-color), 0.5em -0.125em var(--back-clouds-color), 2.187em 0 var(--clouds-color), 1.25em -0.062em var(--back-clouds-color), 2.937em 0.312em var(--clouds-color), 2em -0.312em var(--back-clouds-color), 3.625em -0.062em var(--clouds-color), 2.625em 0em var(--back-clouds-color), 4.5em -0.312em var(--clouds-color), 3.375em -0.437em var(--back-clouds-color), 4.625em -1.75em 0 0.437em var(--clouds-color), 4em -0.625em var(--back-clouds-color), 4.125em -2.125em 0 0.437em var(--back-clouds-color);\n  -webkit-transition: 0.5s cubic-bezier(0, -0.02, 0.4, 1.25);\n  -o-transition: 0.5s cubic-bezier(0, -0.02, 0.4, 1.25);\n  transition: 0.5s cubic-bezier(0, -0.02, 0.4, 1.25);\n}\n\n.theme-switch__stars-container {\n  position: absolute;\n  color: var(--stars-color);\n  top: -100%;\n  left: 0.312em;\n  width: 2.75em;\n  height: auto;\n  -webkit-transition: var(--transition);\n  -o-transition: var(--transition);\n  transition: var(--transition);\n}\n\n/* actions */\n\n.theme-switch__checkbox:checked + .theme-switch__container {\n  background-color: var(--container-night-bg);\n}\n\n.theme-switch__checkbox:checked + .theme-switch__container .theme-switch__circle-container {\n  left: calc(100% - var(--circle-container-offset) - var(--circle-container-diameter));\n}\n\n.theme-switch__checkbox:checked + .theme-switch__container .theme-switch__circle-container:hover {\n  left: calc(100% - var(--circle-container-offset) - var(--circle-container-diameter) - 0.187em)\n}\n\n.theme-switch__circle-container:hover {\n  left: calc(var(--circle-container-offset) + 0.187em);\n}\n\n.theme-switch__checkbox:checked + .theme-switch__container .theme-switch__moon {\n  -webkit-transform: translate(0);\n  -ms-transform: translate(0);\n  transform: translate(0);\n}\n\n.theme-switch__checkbox:checked + .theme-switch__container .theme-switch__clouds {\n  bottom: -4.062em;\n}\n\n.theme-switch__checkbox:checked + .theme-switch__container .theme-switch__stars-container {\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n  -ms-transform: translateY(-50%);\n  transform: translateY(-50%);\n}",
+    "theme": "light",
+    "type": "switch",
+    "viewCount": 47680,
+    "originalPostId": null,
+    "user": {
+    "username": "Galahhad",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 1460,
+    "variations": 0
+    }
+    },
+    {
+    "id": "16696cd4-ecd8-47f4-add7-00a7d05bedb9",
+    "friendlyId": "shaggy-ape-11",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<label class=\"switch\">\n    <input type=\"checkbox\">\n    <span class=\"slider\"></span>\n</label>",
+    "css": "/* The switch - the box around the slider */\n.switch {\n  font-size: 17px;\n  position: relative;\n  display: inline-block;\n  width: 3.5em;\n  height: 2em;\n}\n\n/* Hide default HTML checkbox */\n.switch input {\n  opacity: 0;\n  width: 0;\n  height: 0;\n}\n\n/* The slider */\n.slider {\n  position: absolute;\n  cursor: pointer;\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  background-color: #fff;\n  border: 1px solid #adb5bd;\n  transition: .4s;\n  border-radius: 30px;\n}\n\n.slider:before {\n  position: absolute;\n  content: \"\";\n  height: 1.4em;\n  width: 1.4em;\n  border-radius: 20px;\n  left: 0.27em;\n  bottom: 0.25em;\n  background-color: #adb5bd;\n  transition: .4s;\n}\n\ninput:checked + .slider {\n  background-color: #007bff;\n  border: 1px solid #007bff;\n}\n\ninput:focus + .slider {\n  box-shadow: 0 0 1px #007bff;\n}\n\ninput:checked + .slider:before {\n  transform: translateX(1.4em);\n  background-color: #fff;\n}",
+    "theme": "light",
+    "type": "switch",
+    "viewCount": 11855,
+    "originalPostId": null,
+    "user": {
+    "username": "arghyaBiswasDev",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 211,
+    "variations": 0
+    }
+    },
+    {
+    "id": "678a9eda-645c-4a8c-9248-3a9a735dd690",
+    "friendlyId": "spicy-liger-32",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button class=\"button2\">Hover me</button>\n",
+    "css": ".button2 {\n  display: inline-block;\n  transition: all 0.2s ease-in;\n  position: relative;\n  overflow: hidden;\n  z-index: 1;\n  color: #090909;\n  padding: 0.7em 1.7em;\n  cursor: pointer;\n  font-size: 18px;\n  border-radius: 0.5em;\n  background: #e8e8e8;\n  border: 1px solid #e8e8e8;\n  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;\n}\n\n.button2:active {\n  color: #666;\n  box-shadow: inset 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;\n}\n\n.button2:before {\n  content: \"\";\n  position: absolute;\n  left: 50%;\n  transform: translateX(-50%) scaleY(1) scaleX(1.25);\n  top: 100%;\n  width: 140%;\n  height: 180%;\n  background-color: rgba(0, 0, 0, 0.05);\n  border-radius: 50%;\n  display: block;\n  transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);\n  z-index: -1;\n}\n\n.button2:after {\n  content: \"\";\n  position: absolute;\n  left: 55%;\n  transform: translateX(-50%) scaleY(1) scaleX(1.45);\n  top: 180%;\n  width: 160%;\n  height: 190%;\n  background-color: #009087;\n  border-radius: 50%;\n  display: block;\n  transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);\n  z-index: -1;\n}\n\n.button2:hover {\n  color: #ffffff;\n  border: 1px solid #009087;\n}\n\n.button2:hover:before {\n  top: -35%;\n  background-color: #009087;\n  transform: translateX(-50%) scaleY(1.3) scaleX(0.8);\n}\n\n.button2:hover:after {\n  top: -45%;\n  background-color: #009087;\n  transform: translateX(-50%) scaleY(1.3) scaleX(0.8);\n}\n",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 26605,
+    "originalPostId": null,
+    "user": {
+    "username": "shah1345",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 466,
+    "variations": 1
+    }
+    },
+    {
+    "id": "b2e043cd-d7a5-40e3-89de-fa21243321c5",
+    "friendlyId": "orange-bat-25",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<div class=\"searchbar\">\n    <div class=\"searchbar-wrapper\">\n        <div class=\"searchbar-left\">\n            <div class=\"search-icon-wrapper\">\n                <span class=\"search-icon searchbar-icon\">\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n                        <path d=\"M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z\">\n                        </path>\n                    </svg>\n                </span>\n            </div>\n        </div>\n\n        <div class=\"searchbar-center\">\n            <div class=\"searchbar-input-spacer\"></div>\n\n            <input type=\"text\" class=\"searchbar-input\" maxlength=\"2048\" name=\"q\" autocapitalize=\"off\" autocomplete=\"off\" title=\"Search\" role=\"combobox\" placeholder=\"Search Google\">\n        </div>\n\n        <div class=\"searchbar-right\">\n            <svg class=\"voice-search\" role=\"button\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n                <path fill=\"#4285f4\" d=\"m12 15c1.66 0 3-1.31 3-2.97v-7.02c0-1.66-1.34-3.01-3-3.01s-3 1.34-3 3.01v7.02c0 1.66 1.34 2.97 3 2.97z\">\n                </path>\n                <path fill=\"#34a853\" d=\"m11 18.08h2v3.92h-2z\"></path>\n                <path fill=\"#fbbc05\" d=\"m7.05 16.87c-1.27-1.33-2.05-2.83-2.05-4.87h2c0 1.45 0.56 2.42 1.47 3.38v0.32l-1.15 1.18z\">\n                </path>\n                <path fill=\"#ea4335\" d=\"m12 16.93a4.97 5.25 0 0 1 -3.54 -1.55l-1.41 1.49c1.26 1.34 3.02 2.13 4.95 2.13 3.87 0 6.99-2.92 6.99-7h-1.99c0 2.92-2.24 4.93-5 4.93z\">\n                </path>\n            </svg>\n        </div>\n    </div>\n</div>",
+    "css": ".searchbar {\n  font-size: 14px;\n  font-family: arial, sans-serif;\n  color: #202124;\n  display: flex;\n  z-index: 3;\n  height: 44px;\n  background: white;\n  border: 1px solid #dfe1e5;\n  box-shadow: none;\n  border-radius: 24px;\n  margin: 0 auto;\n  width: auto;\n  max-width: 224px;\n}\n\n.searchbar:hover {\n  box-shadow: 0 1px 6px rgb(32 33 36 / 28%);\n  border-color: rgba(223,225,229,0);\n}\n\n.searchbar-wrapper {\n  flex: 1;\n  display: flex;\n  padding: 5px 8px 0 14px;\n}\n\n.searchbar-left {\n  font-size: 14px;\n  font-family: arial, sans-serif;\n  color: #202124;\n  display: flex;\n  align-items: center;\n  padding-right: 13px;\n  margin-top: -5px;\n}\n\n.search-icon-wrapper {\n  margin: auto;\n}\n\n.search-icon {\n  margin-top: 3px;\n  color: #9aa0a6;\n  height: 20px;\n  line-height: 20px;\n  width: 20px;\n}\n\n.searchbar-icon {\n  display: inline-block;\n  fill: currentColor;\n  height: 24px;\n  line-height: 24px;\n  position: relative;\n  width: 24px;\n}\n\n.searchbar-center {\n  display: flex;\n  flex: 1;\n  flex-wrap: wrap;\n}\n\n.searchbar-input-spacer {\n  color: transparent;\n  flex: 100%;\n  white-space: pre;\n  height: 34px;\n  font-size: 16px;\n}\n\n.searchbar-input {\n  background-color: transparent;\n  border: none;\n  margin: 0;\n  padding: 0;\n  color: rgba(0, 0, 0, .87);\n  word-wrap: break-word;\n  outline: none;\n  display: flex;\n  flex: 100%;\n  margin-top: -37px;\n  height: 34px;\n  font-size: 16px;\n  max-width: 100%;\n  width: 100%;\n}\n\n.searchbar-right {\n  display: flex;\n  flex: 0 0 auto;\n  margin-top: -5px;\n  align-items: stretch;\n  flex-direction: row\n}\n\n.searchbar-clear-icon {\n  margin-right: 12px\n}\n\n.voice-search {\n  flex: 1 0 auto;\n  display: flex;\n  cursor: pointer;\n  align-items: center;\n  border: 0;\n  background: transparent;\n  outline: none;\n  padding: 0 8px;\n  width: 2.8em;\n}",
+    "theme": "light",
+    "type": "input",
+    "viewCount": 25409,
+    "originalPostId": null,
+    "user": {
+    "username": "TimTrayler",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 407,
+    "variations": 0
+    }
+    },
+    {
+    "id": "3021baa0-ffc2-4264-bb00-8174ce849657",
+    "friendlyId": "modern-snail-66",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": true,
+    "html": "<button\n  class=\"group relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-purple-500 to-pink-500 group-hover:from-purple-500 group-hover:to-pink-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800\"\n>\n  <span\n    class=\"relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0\"\n  >\n    Hover For Tooltip\n  </span>\n  <div class=\"hidden group-hover:block\">\n    <div\n      class=\"group absolute -top-12 left-1/2 z-50 flex -translate-x-1/2 flex-col items-center rounded-sm text-center text-sm text-slate-300 before:-top-2\"\n    >\n      <div class=\"rounded-sm bg-black py-1 px-2\">\n        <p class=\"whitespace-nowrap\">This is a tooltip.</p>\n      </div>\n      <div\n        class=\"h-0 w-fit border-l-8 border-r-8 border-t-8 border-transparent border-t-black\"\n      ></div>\n    </div>\n  </div>\n</button>\n",
+    "css": ".absolute{position:absolute}.relative{position:relative}.-top-12{top:-3rem}.left-1\\/2{left:50%}.z-50{z-index:50}.mb-2{margin-bottom:0.5rem}.mr-2{margin-right:0.5rem}.flex{display:flex}.inline-flex{display:inline-flex}.hidden{display:none}.h-0{height:0px}.w-fit{width:-moz-fit-content;width:fit-content}.-translate-x-1\\/2{--tw-translate-x:-50%;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.flex-col{flex-direction:column}.items-center{align-items:center}.justify-center{justify-content:center}.whitespace-nowrap{white-space:nowrap}.rounded-lg{border-radius:0.5rem}.rounded-md{border-radius:0.375rem}.rounded-sm{border-radius:0.125rem}.border-l-8{border-left-width:8px}.border-r-8{border-right-width:8px}.border-t-8{border-top-width:8px}.border-transparent{border-color:transparent}.border-t-black{--tw-border-opacity:1;border-top-color:rgb(0 0 0 / var(--tw-border-opacity))}.bg-black{--tw-bg-opacity:1;background-color:rgb(0 0 0 / var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity))}.bg-gradient-to-br{background-image:linear-gradient(to bottom right, var(--tw-gradient-stops))}.from-purple-500{--tw-gradient-from:#a855f7 var(--tw-gradient-from-position);--tw-gradient-to:rgb(168 85 247 / 0) var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to)}.to-pink-500{--tw-gradient-to:#ec4899 var(--tw-gradient-to-position)}.p-0{padding:0px}.p-0\\.5{padding:0.125rem}.px-2{padding-left:0.5rem;padding-right:0.5rem}.px-5{padding-left:1.25rem;padding-right:1.25rem}.py-1{padding-top:0.25rem;padding-bottom:0.25rem}.py-2{padding-top:0.5rem;padding-bottom:0.5rem}.py-2\\.5{padding-top:0.625rem;padding-bottom:0.625rem}.text-center{text-align:center}.text-sm{font-size:0.875rem;line-height:1.25rem}.font-medium{font-weight:500}.text-gray-900{--tw-text-opacity:1;color:rgb(17 24 39 / var(--tw-text-opacity))}.text-slate-300{--tw-text-opacity:1;color:rgb(203 213 225 / var(--tw-text-opacity))}.transition-all{transition-property:all;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.duration-75{transition-duration:75ms}.ease-in{transition-timing-function:cubic-bezier(0.4, 0, 1, 1)}.before\\:-top-2::before{content:var(--tw-content);top:-0.5rem}.hover\\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.focus\\:outline-none:focus{outline:2px solid transparent;outline-offset:2px}.focus\\:ring-4:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000)}.focus\\:ring-purple-200:focus{--tw-ring-opacity:1;--tw-ring-color:rgb(233 213 255 / var(--tw-ring-opacity))}.group:hover .group-hover\\:block{display:block}.group:hover .group-hover\\:bg-opacity-0{--tw-bg-opacity:0}.group:hover .group-hover\\:from-purple-500{--tw-gradient-from:#a855f7 var(--tw-gradient-from-position);--tw-gradient-to:rgb(168 85 247 / 0) var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to)}.group:hover .group-hover\\:to-pink-500{--tw-gradient-to:#ec4899 var(--tw-gradient-to-position)}@media (prefers-color-scheme: dark){.dark\\:bg-gray-900{--tw-bg-opacity:1;background-color:rgb(17 24 39 / var(--tw-bg-opacity))}.dark\\:text-white{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.dark\\:focus\\:ring-purple-800:focus{--tw-ring-opacity:1;--tw-ring-color:rgb(107 33 168 / var(--tw-ring-opacity))}}",
+    "theme": "light",
+    "type": "tooltip",
+    "viewCount": 5779,
+    "originalPostId": null,
+    "user": {
+    "username": "sahilxkhadka",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 63,
+    "variations": 1
+    }
+    },
+    {
+    "id": "9920106e-f782-4fbb-9665-bad4a64265aa",
+    "friendlyId": "splendid-liger-23",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<label class=\"switch\">\n    <input type=\"checkbox\">\n    <span class=\"slider\"></span>\n</label>",
+    "css": "/* The switch - the box around the slider */\n.switch {\n  font-size: 17px;\n  position: relative;\n  display: inline-block;\n  width: 3.5em;\n  height: 2em;\n}\n\n/* Hide default HTML checkbox */\n.switch input {\n  opacity: 0;\n  width: 0;\n  height: 0;\n}\n\n/* The slider */\n.slider {\n  --background: #28096b;\n  position: absolute;\n  cursor: pointer;\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  background-color: var(--background);\n  transition: .5s;\n  border-radius: 30px;\n}\n\n.slider:before {\n  position: absolute;\n  content: \"\";\n  height: 1.4em;\n  width: 1.4em;\n  border-radius: 50%;\n  left: 10%;\n  bottom: 15%;\n  box-shadow: inset 8px -4px 0px 0px #fff000;\n  background: var(--background);\n  transition: .5s;\n}\n\ninput:checked + .slider {\n  background-color: #522ba7;\n}\n\ninput:checked + .slider:before {\n  transform: translateX(100%);\n  box-shadow: inset 15px -4px 0px 15px #fff000;\n}",
+    "theme": "light",
+    "type": "switch",
+    "viewCount": 22642,
+    "originalPostId": null,
+    "user": {
+    "username": "alexruix",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 608,
+    "variations": 1
+    }
+    },
+    {
+    "id": "d8928259-2687-4896-aef4-b82d6b9e6c8a",
+    "friendlyId": "ancient-bullfrog-71",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<label class=\"switch\">\n    <input type=\"checkbox\">\n    <span class=\"slider\"></span>\n</label>",
+    "css": ".slider {\n  background-color: #ffffff2b;\n  border-radius: 100px;\n  padding: 1px;\n  margin: 10px;\n  cursor: pointer;\n  transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;\n  align-items: center;\n  position: relative;\n  display: block;\n  width: 51px;\n  height: 29px;\n  box-shadow: rgba(0, 0, 0, 0.62) 0px 0px 5px inset, rgba(0, 0, 0, 0.21) 0px 0px 0px 24px inset,\n        #22cc3f 0px 0px 0px 0px inset, rgba(224, 224, 224, 0.45) 0px 1px 0px 0px;\n}\n\n.slider::after {\n  content: \"\";\n  display: flex;\n  top: 2.3px;\n  left: 2px;\n  width: 26px;\n  height: 26px;\n  background-color: #e3e3e3;\n  border-radius: 200px;\n  position: absolute;\n  box-shadow: transparent 0px 0px 0px 2px, rgba(0, 0, 0, 0.3) 0px 6px 6px;\n  transition: left 300ms cubic-bezier(0.4, 0, 0.2, 1) 0s, background-color 300ms cubic-bezier(0.4, 0, 0.2, 1) 0s;\n  will-change: left, background-color;\n}\n\n.switch input[type=\"checkbox\"]:checked + .slider {\n  box-shadow: rgba(0, 0, 0, 0.62) 0px 0px 5px inset, #22cc3f 0px 0px 0px 2px inset, #22cc3f 0px 0px 0px 24px inset,\n        rgba(224, 224, 224, 0.45) 0px 1px 0px 0px;\n}\n\n.switch input[type=\"checkbox\"]:checked + .slider::after {\n  left: 24px;\n}\n\n.switch input[type=\"checkbox\"] {\n  display: none;\n}",
+    "theme": "light",
+    "type": "switch",
+    "viewCount": 8023,
+    "originalPostId": null,
+    "user": {
+    "username": "WhiteNervosa",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 147,
+    "variations": 1
+    }
+    },
+    {
+    "id": "b18d3a47-ce55-4281-ba87-ff91101d0b87",
+    "friendlyId": "tall-mayfly-60",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button class=\"button type1\">\n  <span class=\"btn-txt\">Hello</span>\n</button>\n",
+    "css": ".button {\n  height: 50px;\n  width: 200px;\n  position: relative;\n  background-color: transparent;\n  cursor: pointer;\n  border: 2px solid #252525;\n  overflow: hidden;\n  border-radius: 30px;\n  color: #333;\n  transition: all 0.5s ease-in-out;\n}\n\n.btn-txt {\n  z-index: 1;\n  font-weight: 800;\n  letter-spacing: 4px;\n}\n\n.type1::after {\n  content: \"\";\n  position: absolute;\n  left: 0;\n  top: 0;\n  transition: all 0.5s ease-in-out;\n  background-color: #333;\n  border-radius: 30px;\n  visibility: hidden;\n  height: 10px;\n  width: 10px;\n  z-index: -1;\n}\n\n.button:hover {\n  box-shadow: 1px 1px 200px #252525;\n  color: #fff;\n  border: none;\n}\n\n.type1:hover::after {\n  visibility: visible;\n  transform: scale(100) translateX(2px);\n}\n",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 14277,
+    "originalPostId": null,
+    "user": {
+    "username": "Gaurav-WebDev",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 321,
+    "variations": 0
+    }
+    },
+    {
+    "id": "06512fc1-8aa7-46a7-93e5-07ed6385aee7",
+    "friendlyId": "evil-ape-86",
+    "backgroundColor": "",
+    "post_source": {
+    "name": "",
+    "website": "",
+    "type": "original"
+    },
+    "isTailwind": false,
+    "html": "<div class=\"icon-conatiner\">\n  <svg\n    width=\"19px\"\n    height=\"21px\"\n    viewBox=\"0 0 19 21\"\n    version=\"1.1\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n    xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n  >\n    <title>Group</title>\n    <g\n      id=\"Page-1\"\n      stroke=\"none\"\n      stroke-width=\"1\"\n      fill=\"none\"\n      fill-rule=\"evenodd\"\n    >\n      <g id=\"Artboard\" transform=\"translate(-142.000000, -122.000000)\">\n        <g id=\"Group\" transform=\"translate(142.000000, 122.000000)\">\n          <path\n            d=\"M3.4,4 L11.5,4 L11.5,4 L16,8.25 L16,17.6 C16,19.4777681 14.4777681,21 12.6,21 L3.4,21 C1.52223185,21 6.74049485e-16,19.4777681 0,17.6 L0,7.4 C2.14128934e-16,5.52223185 1.52223185,4 3.4,4 Z\"\n            id=\"Rectangle-Copy\"\n            fill=\"#C4FFE4\"\n          ></path>\n          <path\n            d=\"M6.4,0 L12,0 L12,0 L19,6.5 L19,14.6 C19,16.4777681 17.4777681,18 15.6,18 L6.4,18 C4.52223185,18 3,16.4777681 3,14.6 L3,3.4 C3,1.52223185 4.52223185,7.89029623e-16 6.4,0 Z\"\n            id=\"Rectangle\"\n            fill=\"#85EBBC\"\n          ></path>\n          <path\n            d=\"M12,0 L12,5.5 C12,6.05228475 12.4477153,6.5 13,6.5 L19,6.5 L19,6.5 L12,0 Z\"\n            id=\"Path-2\"\n            fill=\"#64B18D\"\n          ></path>\n        </g>\n      </g>\n    </g>\n  </svg>\n  <svg\n    width=\"19px\"\n    height=\"21px\"\n    viewBox=\"0 0 19 21\"\n    version=\"1.1\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n    xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n  >\n    <title>Group</title>\n    <g\n      id=\"Page-1\"\n      stroke=\"none\"\n      stroke-width=\"1\"\n      fill=\"none\"\n      fill-rule=\"evenodd\"\n    >\n      <g id=\"Artboard\" transform=\"translate(-142.000000, -122.000000)\">\n        <g id=\"Group\" transform=\"translate(142.000000, 122.000000)\">\n          <path\n            d=\"M3.4,4 L11.5,4 L11.5,4 L16,8.25 L16,17.6 C16,19.4777681 14.4777681,21 12.6,21 L3.4,21 C1.52223185,21 6.74049485e-16,19.4777681 0,17.6 L0,7.4 C2.14128934e-16,5.52223185 1.52223185,4 3.4,4 Z\"\n            id=\"Rectangle-Copy\"\n            fill=\"#C4FFE4\"\n          ></path>\n          <path\n            d=\"M6.4,0 L12,0 L12,0 L19,6.5 L19,14.6 C19,16.4777681 17.4777681,18 15.6,18 L6.4,18 C4.52223185,18 3,16.4777681 3,14.6 L3,3.4 C3,1.52223185 4.52223185,7.89029623e-16 6.4,0 Z\"\n            id=\"Rectangle\"\n            fill=\"#85EBBC\"\n          ></path>\n          <path\n            d=\"M12,0 L12,5.5 C12,6.05228475 12.4477153,6.5 13,6.5 L19,6.5 L19,6.5 L12,0 Z\"\n            id=\"Path-2\"\n            fill=\"#64B18D\"\n          ></path>\n        </g>\n      </g>\n    </g>\n  </svg>\n</div>\n",
+    "css": ".icon-conatiner {\n  width: 150px;\n  height: 150px;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  background: #fff;\n  border-radius: 15px;\n  box-shadow: 20px 20px 15px 0 #ababab4d;\n  cursor: pointer;\n}\n\n.icon-conatiner svg {\n  width: 50px;\n  height: auto;\n}\n\n.icon-conatiner svg:last-child {\n  position: absolute;\n}\n\n.icon-conatiner:active {\n  animation: press 0.2s 1 linear;\n}\n\n.icon-conatiner:active svg:last-child {\n  animation: bounce 0.2s 1 linear;\n}\n\n.text {\n  color: #666;\n  font-family: sans-serif;\n  font-size: 16px;\n  font-weight: bold;\n  margin-top: 20px;\n  user-select: none;\n}\n\n@keyframes press {\n  0% {\n    transform: scale(1);\n  }\n\n  50% {\n    transform: scale(0.92);\n  }\n\n  to {\n    transform: scale(1);\n  }\n}\n\n@keyframes bounce {\n  50% {\n    transform: rotate(5deg) translate(20px, -50px);\n  }\n\n  to {\n    transform: scale(0.9) rotate(10deg) translate(50px, -80px);\n    opacity: 0;\n  }\n}\n",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 14717,
+    "originalPostId": null,
+    "user": {
+    "username": "Codecite",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 137,
+    "variations": 0
+    }
+    },
+    {
+    "id": "77a70d33-6d3a-4b51-aa2a-da9bbfc5dd9c",
+    "friendlyId": "horrible-rattlesnake-14",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<input placeholder=\"Searth the internet...\" type=\"text\" name=\"text\" class=\"input\">",
+    "css": ".input {\n  width: 100%;\n  max-width: 220px;\n  height: 45px;\n  padding: 12px;\n  border-radius: 12px;\n  border: 1.5px solid lightgrey;\n  outline: none;\n  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);\n  box-shadow: 0px 0px 20px -18px;\n}\n\n.input:hover {\n  border: 2px solid lightgrey;\n  box-shadow: 0px 0px 20px -17px;\n}\n\n.input:active {\n  transform: scale(0.95);\n}\n\n.input:focus {\n  border: 2px solid grey;\n}",
+    "theme": "light",
+    "type": "input",
+    "viewCount": 14834,
+    "originalPostId": null,
+    "user": {
+    "username": "ErzenXz",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 126,
+    "variations": 1
+    }
+    },
+    {
+    "id": "9a6597b8-fbe6-42a7-b4a4-ed3e20cbeb36",
+    "friendlyId": "lucky-bobcat-25",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<div class=\"container\">\n  <div class=\"radio-wrapper\">\n    <input class=\"input\" name=\"btn\" id=\"value-1\" type=\"radio\">\n    <div class=\"btn\">\n      <span aria-hidden=\"\">_</span>Cyber\n      <span class=\"btn__glitch\" aria-hidden=\"\">_Cyber🦾</span>\n      <label class=\"number\">r1</label>\n    </div>\n  </div>\n  <div class=\"radio-wrapper\">\n    <input class=\"input\" name=\"btn\" id=\"value-2\" checked=\"true\" type=\"radio\">\n    <div class=\"btn\">\n      _Radio<span aria-hidden=\"\">_</span>\n      <span class=\"btn__glitch\" aria-hidden=\"\">_R_a_d_i_o_</span>\n      <label class=\"number\">r2</label>\n    </div>\n  </div>\n  <div class=\"radio-wrapper\">\n    <input class=\"input\" name=\"btn\" id=\"value-3\" type=\"radio\">\n    <div class=\"btn\">\n      Buttons<span aria-hidden=\"\"></span>\n      <span class=\"btn__glitch\" aria-hidden=\"\">Buttons_</span>\n      <label class=\"number\">r3</label>\n    </div> \n  </div>\n</div>\n\n",
+    "css": ".container {\n  display: flex;\n  flex-direction: row;\n}\n\n.radio-wrapper {\n  position: relative;\n  height: 38px;\n  width: 84px;\n  margin: 3px;\n}\n\n.radio-wrapper .input {\n  position: absolute;\n  height: 100%;\n  width: 100%;\n  margin: 0;\n  cursor: pointer;\n  z-index: 10;\n  opacity: 0;\n}\n\n.btn {\n  --primary: #ff184c;\n  --shadow-primary: #fded00;\n  --color: white;\n  --font-size: 9px;\n  --shadow-primary-hue: 180;\n  --shadow-secondary-hue: 60;\n  --shadow-secondary: hsl(var(--shadow-secondary-hue), 90%, 60%);\n  --clip: polygon(11% 0, 95% 0, 100% 25%, 90% 90%, 95% 90%, 85% 90%, 85% 100%, 7% 100%, 0 80%);\n  --border: 5px;\n  --shimmy-distance: 5;\n  --clip-one: polygon(0 2%, 100% 2%, 100% 95%, 95% 95%, 95% 90%, 85% 90%, 85% 95%, 8% 95%, 0 70%);\n  --clip-two: polygon(0 78%, 100% 78%, 100% 100%, 95% 100%, 95% 90%, 85% 90%, 85% 100%, 8% 100%, 0 78%);\n  --clip-three: polygon(0 44%, 100% 44%, 100% 54%, 95% 54%, 95% 54%, 85% 54%, 85% 54%, 8% 54%, 0 54%);\n  --clip-four: polygon(0 0, 100% 0, 100% 0, 95% 0, 95% 0, 85% 0, 85% 0, 8% 0, 0 0);\n  --clip-five: polygon(0 0, 100% 0, 100% 0, 95% 0, 95% 0, 85% 0, 85% 0, 8% 0, 0 0);\n  --clip-six: polygon(0 40%, 100% 40%, 100% 85%, 95% 85%, 95% 85%, 85% 85%, 85% 85%, 8% 85%, 0 70%);\n  --clip-seven: polygon(0 63%, 100% 63%, 100% 80%, 95% 80%, 95% 80%, 85% 80%, 85% 80%, 8% 80%, 0 70%);\n  color: var(--color);\n  text-transform: uppercase;\n  font-size: var(--font-size);\n  letter-spacing: 3px;\n  position: relative;\n  font-weight: 900;\n  width: 100%;\n  height: 100%;\n  line-height: 38px;\n  text-align: center;\n  transition: background 0.2s, 0.3s;\n}\n\n.input:checked + .btn {\n  --primary: #8B00FF;\n  --shadow-primary: #00e572;\n}\n\n.input:hover + .btn {\n  --primary: #cc133c;\n  --font-size: 11px;\n}\n\n.btn:after, .btn:before {\n  content: '';\n  position: absolute;\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  clip-path: var(--clip);\n  z-index: -1;\n}\n\n.btn:before {\n  background: var(--shadow-primary);\n  transform: translate(var(--border), 0);\n}\n\n.btn:after {\n  background: var(--primary);\n}\n\n.btn__tag {\n  position: absolute;\n  padding: 1px 4px;\n  letter-spacing: 1px;\n  line-height: 1;\n  bottom: -5%;\n  right: 5%;\n  font-weight: normal;\n  color: hsl(0, 0%, 0%);\n  font-size: var(--label-size);\n}\n\n.btn__glitch {\n  position: absolute;\n  top: calc(var(--border) * -1);\n  left: calc(var(--border) * -1);\n  right: calc(var(--border) * -1);\n  bottom: calc(var(--border) * -1);\n  background: var(--shadow-primary);\n  text-shadow: 2px 2px var(--shadow-primary), -2px -2px var(--shadow-secondary);\n  clip-path: var(--clip);\n  animation: glitch 2s infinite;\n  display: none;\n}\n\n.input:hover + .btn .btn__glitch {\n  display: block;\n}\n\n.input:checked + .btn .btn__glitch {\n  display: block;\n  animation: glitch 5s infinite;\n}\n\n.btn__glitch:before {\n  content: '';\n  position: absolute;\n  top: calc(var(--border) * 1);\n  right: calc(var(--border) * 1);\n  bottom: calc(var(--border) * 1);\n  left: calc(var(--border) * 1);\n  clip-path: var(--clip);\n  background: var(--primary);\n  z-index: -1;\n}\n\n@keyframes glitch {\n  0% {\n    clip-path: var(--clip-one);\n  }\n\n  2%, 8% {\n    clip-path: var(--clip-two);\n    transform: translate(calc(var(--shimmy-distance) * -1%), 0);\n  }\n\n  6% {\n    clip-path: var(--clip-two);\n    transform: translate(calc(var(--shimmy-distance) * 1%), 0);\n  }\n\n  9% {\n    clip-path: var(--clip-two);\n    transform: translate(0, 0);\n  }\n\n  10% {\n    clip-path: var(--clip-three);\n    transform: translate(calc(var(--shimmy-distance) * 1%), 0);\n  }\n\n  13% {\n    clip-path: var(--clip-three);\n    transform: translate(0, 0);\n  }\n\n  14%, 21% {\n    clip-path: var(--clip-four);\n    transform: translate(calc(var(--shimmy-distance) * 1%), 0);\n  }\n\n  25% {\n    clip-path: var(--clip-five);\n    transform: translate(calc(var(--shimmy-distance) * 1%), 0);\n  }\n\n  30% {\n    clip-path: var(--clip-five);\n    transform: translate(calc(var(--shimmy-distance) * -1%), 0);\n  }\n\n  35%, 45% {\n    clip-path: var(--clip-six);\n    transform: translate(calc(var(--shimmy-distance) * -1%));\n  }\n\n  40% {\n    clip-path: var(--clip-six);\n    transform: translate(calc(var(--shimmy-distance) * 1%));\n  }\n\n  50% {\n    clip-path: var(--clip-six);\n    transform: translate(0, 0);\n  }\n\n  55% {\n    clip-path: var(--clip-seven);\n    transform: translate(calc(var(--shimmy-distance) * 1%), 0);\n  }\n\n  60% {\n    clip-path: var(--clip-seven);\n    transform: translate(0, 0);\n  }\n\n  31%, 61%, 100% {\n    clip-path: var(--clip-four);\n  }\n}\n\n.number {\n  background: var(--shadow-primary);\n  color: #323232;\n  font-size: 5.5px;\n  font-weight: 700;\n  letter-spacing: 1px;\n  position: absolute;\n  width: 15px;\n  height: 6px;\n  top: 0;\n  left: 81%;\n  line-height: 6.2px;\n}\n",
+    "theme": "dark",
+    "type": "radio",
+    "viewCount": 11743,
+    "originalPostId": null,
+    "user": {
+    "username": "andrew-demchenk0",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 499,
+    "variations": 2
+    }
+    },
+    {
+    "id": "7542a43c-19d9-4f39-bba6-9678abda1ee4",
+    "friendlyId": "terrible-zebra-56",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<div class=\"container\">\n        <input hidden=\"\" id=\"check\" name=\"check\" type=\"checkbox\">\n        <label class=\"toggle\" for=\"check\">\n            <div class=\"toggle__circle\"></div>\n        </label>\n        <div class=\"toggle-text\">\n            <span>N</span>\n            <span>F</span>\n        </div>\n    </div>",
+    "css": ".container {\n  margin: auto;\n  color: hsl(0, 0%, 30%);\n  font-weight: 900;\n  font-size: 6rem;\n  display: flex;\n}\n\n.toggle {\n  width: 60px;\n  height: 155px;\n  background-color: hsl(0, 0%, 80%);\n  border-radius: 1.7rem;\n  padding: .25rem 0;\n  cursor: pointer;\n  display: flex;\n  justify-content: center;\n  transition: background-color 300ms 300ms;\n}\n\n.toggle__circle {\n  width: 50px;\n  height: 50px;\n  background-color: hsl(0, 0%, 95%);\n  border-radius: 50%;\n  margin-top: calc(155px - (.25rem * 2) - 50px);\n  transition: margin 500ms ease-in-out;\n}\n\n.toggle-text {\n  display: flex;\n  flex-direction: column;\n  line-height: .8;\n}\n\n#check:checked + .toggle > .toggle__circle {\n  margin-top: 0;\n}\n\n#check:checked + .toggle {\n  background-color: #41a63c;\n}",
+    "theme": "light",
+    "type": "switch",
+    "viewCount": 6170,
+    "originalPostId": null,
+    "user": {
+    "username": "Creatlydev",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 98,
+    "variations": 2
+    }
+    },
+    {
+    "id": "4d4302f8-084e-4226-ab23-e4a21641c339",
+    "friendlyId": "rare-treefrog-56",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button class=\"btn-github\">\n  <svg\n    xmlns=\"http://www.w3.org/2000/svg\"\n    fill=\"none\"\n    viewBox=\"0 0 16 16\"\n    height=\"16\"\n    width=\"16\"\n  >\n    <path\n      fill=\"currentcolor\"\n      d=\"M7.99992 1.33331C7.12444 1.33331 6.25753 1.50575 5.4487 1.84078C4.63986 2.17581 3.90493 2.66688 3.28587 3.28593C2.03563 4.53618 1.33325 6.23187 1.33325 7.99998C1.33325 10.9466 3.24659 13.4466 5.89325 14.3333C6.22659 14.3866 6.33325 14.18 6.33325 14C6.33325 13.8466 6.33325 13.4266 6.33325 12.8733C4.48659 13.2733 4.09325 11.98 4.09325 11.98C3.78659 11.2066 3.35325 11 3.35325 11C2.74659 10.5866 3.39992 10.6 3.39992 10.6C4.06659 10.6466 4.41992 11.2866 4.41992 11.2866C4.99992 12.3 5.97992 12 6.35992 11.84C6.41992 11.4066 6.59325 11.1133 6.77992 10.9466C5.29992 10.78 3.74659 10.2066 3.74659 7.66665C3.74659 6.92665 3.99992 6.33331 4.43325 5.85998C4.36659 5.69331 4.13325 4.99998 4.49992 4.09998C4.49992 4.09998 5.05992 3.91998 6.33325 4.77998C6.85992 4.63331 7.43325 4.55998 7.99992 4.55998C8.56659 4.55998 9.13992 4.63331 9.66659 4.77998C10.9399 3.91998 11.4999 4.09998 11.4999 4.09998C11.8666 4.99998 11.6333 5.69331 11.5666 5.85998C11.9999 6.33331 12.2533 6.92665 12.2533 7.66665C12.2533 10.2133 10.6933 10.7733 9.20659 10.94C9.44659 11.1466 9.66659 11.5533 9.66659 12.1733C9.66659 13.0666 9.66659 13.7866 9.66659 14C9.66659 14.18 9.77325 14.3933 10.1133 14.3333C12.7599 13.44 14.6666 10.9466 14.6666 7.99998C14.6666 7.1245 14.4941 6.25759 14.1591 5.44876C13.8241 4.63992 13.333 3.90499 12.714 3.28593C12.0949 2.66688 11.36 2.17581 10.5511 1.84078C9.7423 1.50575 8.8754 1.33331 7.99992 1.33331V1.33331Z\"\n    ></path>\n  </svg>\n  <span>View on Github</span>\n</button>\n",
+    "css": ".btn-github {\n  cursor: pointer;\n  display: flex;\n  gap: 0.5rem;\n  border: none;\n\n  transition: all 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);\n  -webkit-backdrop-filter: blur(32px);\n  backdrop-filter: blur(32px);\n  border-radius: 100px;\n  font-weight: 800;\n  place-content: center;\n\n  padding: 0.75rem 1rem;\n  font-size: 0.825rem;\n  line-height: 1rem;\n\n  background-color: rgba(255, 255, 255, 0.08);\n  box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.04),\n    inset 0 0 0 1px rgba(255, 255, 255, 0.04);\n  color: #fff;\n}\n\n.btn-github:hover {\n  box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.08),\n    inset 0 0 0 1px rgba(252, 232, 3, 0.08);\n  color: #fce803;\n  transform: translate(0, -0.25rem);\n  background-color: rgba(255, 255, 255, 0.16);\n}\n",
+    "theme": "dark",
+    "type": "button",
+    "viewCount": 167,
+    "originalPostId": null,
+    "user": {
+    "username": "Creatlydev",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 8,
+    "variations": 0
+    }
+    },
+    {
+    "id": "fc1c6407-60d0-4f21-85c7-bb0822c1febe",
+    "friendlyId": "good-dingo-46",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button class=\"delete-button\">\n  ␡\n</button>",
+    "css": ".delete-button {\n  background-color: #000;\n  color: #fff;\n  font-size: 44px;\n  border: 0.5px solid rgba(0, 0, 0, 0.1);\n  padding-bottom: 8px;\n  width: 60px;\n  height: 65px;\n  border-radius: 15px 15px 12px 12px;\n  cursor: pointer;\n  position: relative;\n  will-change: transform;\n  transition: all .1s ease-in-out 0s;\n  user-select: none;\n  /* Add gradient shading to each side */\n  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)),\n    linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));\n  background-position: bottom right, bottom right;\n  background-size: 100% 100%, 100% 100%;\n  background-repeat: no-repeat;\n  box-shadow: inset -4px -10px 0px rgba(255, 255, 255, 0.4),\n    inset -4px -8px 0px rgba(0, 0, 0, 0.3),\n    0px 2px 1px rgba(0, 0, 0, 0.3),\n    0px 2px 1px rgba(255, 255, 255, 0.1);\n  transform: perspective(70px) rotateX(5deg) rotateY(0deg);\n}\n\n.delete-button::after {\n  content: '';\n  position: absolute;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.2), rgba(0, 0, 0, 0.5));\n  z-index: -1;\n  border-radius: 15px;\n  box-shadow: inset 4px 0px 0px rgba(255, 255, 255, 0.1),\n    inset 4px -8px 0px rgba(0, 0, 0, 0.3);\n  transition: all .1s ease-in-out 0s;\n}\n\n.delete-button::before {\n  content: '';\n  position: absolute;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)),\n    linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));\n  background-position: bottom right, bottom right;\n  background-size: 100% 100%, 100% 100%;\n  background-repeat: no-repeat;\n  z-index: -1;\n  border-radius: 15px;\n  transition: all .1s ease-in-out 0s;\n}\n\n.delete-button:active {\n  will-change: transform;\n  transform: perspective(80px) rotateX(5deg) rotateY(1deg) translateY(3px) scale(0.96);\n  height: 64px;\n  border: 0.25px solid rgba(0, 0, 0, 0.2);\n  box-shadow: inset -4px -8px 0px rgba(255, 255, 255, 0.2),\n    inset -4px -6px 0px rgba(0, 0, 0, 0.8),\n    0px 1px 0px rgba(0, 0, 0, 0.9),\n    0px 1px 0px rgba(255, 255, 255, 0.2);\n  transition: all .1s ease-in-out 0s;\n}\n\n.delete-button::after:active {\n  background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.2));\n}\n\n.delete-button:active::before {\n  content: \"\";\n  display: block;\n  position: absolute;\n  top: 5%;\n  left: 20%;\n  width: 50%;\n  height: 80%;\n  background-color: rgba(255, 255, 255, 0.1);\n  animation: overlay 0.1s ease-in-out 0s;\n  pointer-events: none;\n}\n\n@keyframes overlay {\n  from {\n    opacity: 0;\n  }\n\n  to {\n    opacity: 1;\n  }\n}\n\n.delete-button:focus {\n  outline: none;\n}",
+    "theme": "light",
+    "type": "button",
+    "viewCount": 14269,
+    "originalPostId": null,
+    "user": {
+    "username": "dylanharriscameron",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 75,
+    "variations": 3
+    }
+    },
+    {
+    "id": "f3711b40-03af-4738-b24f-ef1fc4578440",
+    "friendlyId": "sharp-rattlesnake-74",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<div class=\"group\">\n  <svg stroke=\"currentColor\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon\">\n  <path d=\"M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z\" stroke-linejoin=\"round\" stroke-linecap=\"round\"></path>\n</svg>\n<input class=\"input\" type=\"password\" placeholder=\"password\">\n</div>",
+    "css": ".group {\n  display: flex;\n  line-height: 30px;\n  align-items: center;\n  position: relative;\n  max-width: 200px;\n}\n\n.input {\n  width: 100%;\n  height: 45px;\n  line-height: 30px;\n  padding: 0 5rem;\n  padding-left: 3rem;\n  border: 2px solid transparent;\n  border-radius: 10px;\n  outline: none;\n  background-color: #f8fafc;\n  color: #0d0c22;\n  transition: .5s ease;\n}\n\n.input::placeholder {\n  color: #94a3b8;\n}\n\n.input:focus, input:hover {\n  outline: none;\n  border-color: rgba(129, 140, 248);\n  background-color: #fff;\n  box-shadow: 0 0 0 5px rgb(129 140 248 / 30%);\n}\n\n.icon {\n  position: absolute;\n  left: 1rem;\n  fill: none;\n  width: 1rem;\n  height: 1rem;\n}",
+    "theme": "light",
+    "type": "input",
+    "viewCount": 13621,
+    "originalPostId": null,
+    "user": {
+    "username": "ozgeozkaraa01",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 357,
+    "variations": 0
+    }
+    },
+    {
+    "id": "c9068338-c18c-4576-8a85-35215adeaded",
+    "friendlyId": "tall-swan-6",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<label class=\"hamburger\">\n  <input type=\"checkbox\">\n  <svg viewBox=\"0 0 32 32\">\n    <path class=\"line line-top-bottom\" d=\"M27 10 13 10C10.8 10 9 8.2 9 6 9 3.5 10.8 2 13 2 15.2 2 17 3.8 17 6L17 26C17 28.2 18.8 30 21 30 23.2 30 25 28.2 25 26 25 23.8 23.2 22 21 22L7 22\"></path>\n    <path class=\"line\" d=\"M7 16 27 16\"></path>\n  </svg>\n</label>",
+    "css": ".hamburger {\n  cursor: pointer;\n}\n\n.hamburger input {\n  display: none;\n}\n\n.hamburger svg {\n  /* The size of the SVG defines the overall size */\n  height: 3em;\n  /* Define the transition for transforming the SVG */\n  transition: transform 600ms cubic-bezier(0.4, 0, 0.2, 1);\n}\n\n.line {\n  fill: none;\n  stroke: white;\n  stroke-linecap: round;\n  stroke-linejoin: round;\n  stroke-width: 3;\n  /* Define the transition for transforming the Stroke */\n  transition: stroke-dasharray 600ms cubic-bezier(0.4, 0, 0.2, 1),\n              stroke-dashoffset 600ms cubic-bezier(0.4, 0, 0.2, 1);\n}\n\n.line-top-bottom {\n  stroke-dasharray: 12 63;\n}\n\n.hamburger input:checked + svg {\n  transform: rotate(-45deg);\n}\n\n.hamburger input:checked + svg .line-top-bottom {\n  stroke-dasharray: 20 300;\n  stroke-dashoffset: -32.42;\n}\n",
+    "theme": "dark",
+    "type": "checkbox",
+    "viewCount": 23826,
+    "originalPostId": null,
+    "user": {
+    "username": "JulanDeAlb",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 1290,
+    "variations": 1
+    }
+    },
+    {
+    "id": "4c3f0459-cfa3-4c58-92cd-44a93f824399",
+    "friendlyId": "soft-dolphin-57",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button>\n  <span>Share</span>\n  <div class=\"container\">\n    <svg\n      class=\"icon\"\n      viewBox=\"0 0 1024 1024\"\n      version=\"1.1\"\n      xmlns=\"http://www.w3.org/2000/svg\"\n      width=\"45\"\n      height=\"45\"\n    >\n      <path\n        d=\"M962.267429 233.179429q-38.253714 56.027429-92.598857 95.451429 0.585143 7.972571 0.585143 23.990857 0 74.313143-21.723429 148.260571t-65.974857 141.970286-105.398857 120.32-147.456 83.456-184.539429 31.158857q-154.843429 0-283.428571-82.870857 19.968 2.267429 44.544 2.267429 128.585143 0 229.156571-78.848-59.977143-1.170286-107.446857-36.864t-65.170286-91.136q18.870857 2.852571 34.889143 2.852571 24.576 0 48.566857-6.290286-64-13.165714-105.984-63.707429t-41.984-117.394286l0-2.267429q38.838857 21.723429 83.456 23.405714-37.741714-25.161143-59.977143-65.682286t-22.308571-87.990857q0-50.322286 25.161143-93.110857 69.12 85.138286 168.301714 136.265143t212.260571 56.832q-4.534857-21.723429-4.534857-42.276571 0-76.580571 53.979429-130.56t130.56-53.979429q80.018286 0 134.875429 58.294857 62.317714-11.995429 117.174857-44.544-21.138286 65.682286-81.115429 101.741714 53.174857-5.705143 106.276571-28.598857z\"\n        fill=\"\"\n      ></path>\n    </svg>\n    <svg\n      class=\"icon\"\n      viewBox=\"0 0 1024 1024\"\n      version=\"1.1\"\n      xmlns=\"http://www.w3.org/2000/svg\"\n      width=\"45\"\n      height=\"45\"\n    >\n      <path\n        d=\"M123.52064 667.99143l344.526782 229.708899 0-205.136409-190.802457-127.396658zM88.051421 585.717469l110.283674-73.717469-110.283674-73.717469 0 147.434938zM556.025711 897.627196l344.526782-229.708899-153.724325-102.824168-190.802457 127.396658 0 205.136409zM512 615.994287l155.406371-103.994287-155.406371-103.994287-155.406371 103.994287zM277.171833 458.832738l190.802457-127.396658 0-205.136409-344.526782 229.708899zM825.664905 512l110.283674 73.717469 0-147.434938zM746.828167 458.832738l153.724325-102.824168-344.526782-229.708899 0 205.136409zM1023.926868 356.00857l0 311.98286q0 23.402371-19.453221 36.566205l-467.901157 311.98286q-11.993715 7.459506-24.57249 7.459506t-24.57249-7.459506l-467.901157-311.98286q-19.453221-13.163834-19.453221-36.566205l0-311.98286q0-23.402371 19.453221-36.566205l467.901157-311.98286q11.993715-7.459506 24.57249-7.459506t24.57249 7.459506l467.901157 311.98286q19.453221 13.163834 19.453221 36.566205z\"\n        fill=\"\"\n      ></path>\n    </svg>\n    <svg\n      class=\"icon\"\n      viewBox=\"0 0 1024 1024\"\n      version=\"1.1\"\n      xmlns=\"http://www.w3.org/2000/svg\"\n      width=\"45\"\n      height=\"45\"\n    >\n      <path\n        d=\"M950.930286 512q0 143.433143-83.748571 257.974857t-216.283429 158.573714q-15.433143 2.852571-22.601143-4.022857t-7.168-17.115429l0-120.539429q0-55.442286-29.696-81.115429 32.548571-3.437714 58.587429-10.313143t53.686857-22.308571 46.299429-38.034286 30.281143-59.977143 11.702857-86.016q0-69.12-45.129143-117.686857 21.138286-52.004571-4.534857-116.589714-16.018286-5.12-46.299429 6.290286t-52.589714 25.161143l-21.723429 13.677714q-53.174857-14.848-109.714286-14.848t-109.714286 14.848q-9.142857-6.290286-24.283429-15.433143t-47.689143-22.016-49.152-7.68q-25.161143 64.585143-4.022857 116.589714-45.129143 48.566857-45.129143 117.686857 0 48.566857 11.702857 85.723429t29.988571 59.977143 46.006857 38.253714 53.686857 22.308571 58.587429 10.313143q-22.820571 20.553143-28.013714 58.88-11.995429 5.705143-25.746286 8.557714t-32.548571 2.852571-37.449143-12.288-31.744-35.693714q-10.825143-18.285714-27.721143-29.696t-28.306286-13.677714l-11.410286-1.682286q-11.995429 0-16.603429 2.56t-2.852571 6.582857 5.12 7.972571 7.460571 6.875429l4.022857 2.852571q12.580571 5.705143 24.868571 21.723429t17.993143 29.110857l5.705143 13.165714q7.460571 21.723429 25.161143 35.108571t38.253714 17.115429 39.716571 4.022857 31.744-1.974857l13.165714-2.267429q0 21.723429 0.292571 50.834286t0.292571 30.866286q0 10.313143-7.460571 17.115429t-22.820571 4.022857q-132.534857-44.032-216.283429-158.573714t-83.748571-257.974857q0-119.442286 58.88-220.306286t159.744-159.744 220.306286-58.88 220.306286 58.88 159.744 159.744 58.88 220.306286z\"\n        fill=\"\"\n      ></path>\n    </svg>\n  </div>\n</button>\n",
+    "css": "button {\n  height: 4em;\n  width: 15em;\n  border: none;\n  border-radius: 40px;\n  background-color: #fff;\n  cursor: pointer;\n}\n\nbutton span {\n  z-index: 1;\n  display: inline-block;\n  background-color: black;\n  height: 3em;\n  width: 11.5em;\n  border-radius: 25px;\n  color: #fff;\n  line-height: 55px;\n  font-size: 18px;\n  letter-spacing: 3px;\n  transition: all 0.5s;\n}\n\nbutton .container {\n  z-index: -1;\n  width: 0;\n  position: relative;\n  display: flex;\n  justify-content: center;\n  transform: translateY(-50px);\n  transition: all 0.4s;\n}\n\nbutton .container svg {\n  padding: 0 10px;\n}\n\nbutton:hover span {\n  width: 0;\n}\n\nbutton:hover .container {\n  z-index: 2;\n  width: 100%;\n}\n",
+    "theme": "dark",
+    "type": "button",
+    "viewCount": 13466,
+    "originalPostId": null,
+    "user": {
+    "username": "gagan-gv",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 577,
+    "variations": 1
+    }
+    },
+    {
+    "id": "b370fda2-0d07-4284-bb45-e30ae2a1a1c5",
+    "friendlyId": "chatty-frog-63",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<label class=\"slider\">\n  <input type=\"range\" class=\"level\" />\n  <svg\n    class=\"volume\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n    version=\"1.1\"\n    xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n    width=\"512\"\n    height=\"512\"\n    x=\"0\"\n    y=\"0\"\n    viewBox=\"0 0 24 24\"\n    style=\"enable-background:new 0 0 512 512\"\n    xml:space=\"preserve\"\n  >\n    <g>\n      <path\n        d=\"M18.36 19.36a1 1 0 0 1-.705-1.71C19.167 16.148 20 14.142 20 12s-.833-4.148-2.345-5.65a1 1 0 1 1 1.41-1.419C20.958 6.812 22 9.322 22 12s-1.042 5.188-2.935 7.069a.997.997 0 0 1-.705.291z\"\n        fill=\"currentColor\"\n        data-original=\"#000000\"\n      ></path>\n      <path\n        d=\"M15.53 16.53a.999.999 0 0 1-.703-1.711C15.572 14.082 16 13.054 16 12s-.428-2.082-1.173-2.819a1 1 0 1 1 1.406-1.422A6 6 0 0 1 18 12a6 6 0 0 1-1.767 4.241.996.996 0 0 1-.703.289zM12 22a1 1 0 0 1-.707-.293L6.586 17H4c-1.103 0-2-.897-2-2V9c0-1.103.897-2 2-2h2.586l4.707-4.707A.998.998 0 0 1 13 3v18a1 1 0 0 1-1 1z\"\n        fill=\"currentColor\"\n        data-original=\"#000000\"\n      ></path>\n    </g>\n  </svg>\n</label>\n",
+    "css": "/* level settings 👇 */\n\n.slider {\n  /* slider */\n  --slider-width: 100%;\n  --slider-height: 50px;\n  --slider-bg: rgb(82, 82, 82);\n  --slider-border-radius: 9px;\n  /* level */\n  --level-color: #fff;\n  --level-transition-duration: 0.1s;\n  /* icon */\n  --icon-margin: 15px;\n  --icon-color: var(--slider-bg);\n  --icon-size: 25px;\n}\n\n.slider {\n  position: relative;\n  cursor: pointer;\n  display: -webkit-inline-box;\n  display: -ms-inline-flexbox;\n  display: inline-flex;\n  -webkit-box-orient: horizontal;\n  -webkit-box-direction: reverse;\n  -ms-flex-direction: row-reverse;\n  flex-direction: row-reverse;\n  -webkit-box-align: center;\n  -ms-flex-align: center;\n  align-items: center;\n}\n\n.slider .volume {\n  display: inline-block;\n  vertical-align: top;\n  margin-right: var(--icon-margin);\n  color: var(--icon-color);\n  width: var(--icon-size);\n  height: auto;\n  position: absolute;\n  left: 0;\n  pointer-events: none;\n}\n\n.slider .level {\n  -webkit-appearance: none;\n  -moz-appearance: none;\n  appearance: none;\n  width: var(--slider-width);\n  height: var(--slider-height);\n  background: var(--slider-bg);\n  overflow: hidden;\n  border-radius: var(--slider-border-radius);\n  -webkit-transition: height var(--level-transition-duration);\n  -o-transition: height var(--level-transition-duration);\n  transition: height var(--level-transition-duration);\n  cursor: inherit;\n  transform: rotate(270deg);\n}\n\n.slider .level::-webkit-slider-thumb {\n  -webkit-appearance: none;\n  width: 0;\n  height: 0;\n  -webkit-box-shadow: -200px 0 0 200px var(--level-color);\n  box-shadow: -200px 0 0 200px var(--level-color);\n}\n.slider .level::-moz-range-thumb {\n  width: 0;\n  height: 0;\n  border-radius: 0;\n  border: none;\n  box-shadow: -200px 0 0 200px var(--level-color);\n}\n",
+    "theme": "dark",
+    "type": "input",
+    "viewCount": 3433,
+    "originalPostId": null,
+    "user": {
+    "username": "seyed-mohsen-mousavi",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 127,
+    "variations": 0
+    }
+    },
+    {
+    "id": "cffb73ef-cb8a-46de-bab5-a8f707c3da24",
+    "friendlyId": "fat-eagle-24",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<button>\n  GLITCH\n</button>",
+    "css": "button,button::after {\n  padding: 10px 50px;\n  font-size: 20px;\n  border: none;\n  border-radius: 5px;\n  color: white;\n  background-color: transparent;\n  position: relative;\n}\n\nbutton::after {\n  --move1: inset(50% 50% 50% 50%);\n  --move2: inset(31% 0 40% 0);\n  --move3: inset(39% 0 15% 0);\n  --move4: inset(45% 0 40% 0);\n  --move5: inset(45% 0 6% 0);\n  --move6: inset(14% 0 61% 0);\n  clip-path: var(--move1);\n  content: 'GLITCH';\n  position: absolute;\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  display: block;\n}\n\nbutton:hover::after {\n  animation: glitch_4011 1s;\n  text-shadow: 10 10px 10px black;\n  animation-timing-function: steps(2, end);\n  text-shadow: -3px -3px 0px #1df2f0, 3px 3px 0px #E94BE8;\n  background-color: transparent;\n  border: 3px solid rgb(0, 255, 213);\n}\n\nbutton:hover {\n  text-shadow: -1px -1px 0px #1df2f0, 1px 1px 0px #E94BE8;\n}\n\nbutton:hover {\n  background-color: transparent;\n  border: 1px solid rgb(0, 255, 213);\n  box-shadow: 0px 10px 10px -10px rgb(0, 255, 213);\n}\n\n@keyframes glitch_4011 {\n  0% {\n    clip-path: var(--move1);\n    transform: translate(0px,-10px);\n  }\n\n  10% {\n    clip-path: var(--move2);\n    transform: translate(-10px,10px);\n  }\n\n  20% {\n    clip-path: var(--move3);\n    transform: translate(10px,0px);\n  }\n\n  30% {\n    clip-path: var(--move4);\n    transform: translate(-10px,10px);\n  }\n\n  40% {\n    clip-path: var(--move5);\n    transform: translate(10px,-10px);\n  }\n\n  50% {\n    clip-path: var(--move6);\n    transform: translate(-10px,10px);\n  }\n\n  60% {\n    clip-path: var(--move1);\n    transform: translate(10px,-10px);\n  }\n\n  70% {\n    clip-path: var(--move3);\n    transform: translate(-10px,10px);\n  }\n\n  80% {\n    clip-path: var(--move2);\n    transform: translate(10px,-10px);\n  }\n\n  90% {\n    clip-path: var(--move4);\n    transform: translate(-10px,10px);\n  }\n\n  100% {\n    clip-path: var(--move1);\n    transform: translate(0);\n  }\n}\n\n",
+    "theme": "dark",
+    "type": "button",
+    "viewCount": 14834,
+    "originalPostId": null,
+    "user": {
+    "username": "212004ALJI",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 771,
+    "variations": 0
+    }
+    },
+    {
+    "id": "dc12524c-62d6-48e6-be3e-6999c5b8985c",
+    "friendlyId": "curvy-bulldog-27",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<div class=\"loader\"></div>",
+    "css": ".loader {\n  width: 120px;\n  height: 150px;\n  background-color: #fff;\n  background-repeat: no-repeat;\n  background-image: linear-gradient(#ddd 50%, #bbb 51%),\n    linear-gradient(#ddd, #ddd), linear-gradient(#ddd, #ddd),\n    radial-gradient(ellipse at center, #aaa 25%, #eee 26%, #eee 50%, #0000 55%),\n    radial-gradient(ellipse at center, #aaa 25%, #eee 26%, #eee 50%, #0000 55%),\n    radial-gradient(ellipse at center, #aaa 25%, #eee 26%, #eee 50%, #0000 55%);\n  background-position: 0 20px, 45px 0, 8px 6px, 55px 3px, 75px 3px, 95px 3px;\n  background-size: 100% 4px, 1px 23px, 30px 8px, 15px 15px, 15px 15px, 15px 15px;\n  position: relative;\n  border-radius: 6%;\n  animation: shake 3s ease-in-out infinite;\n  transform-origin: 60px 180px;\n}\n\n.loader:before {\n  content: \"\";\n  position: absolute;\n  left: 5px;\n  top: 100%;\n  width: 7px;\n  height: 5px;\n  background: #aaa;\n  border-radius: 0 0 4px 4px;\n  box-shadow: 102px 0 #aaa;\n}\n\n.loader:after {\n  content: \"\";\n  position: absolute;\n  width: 95px;\n  height: 95px;\n  left: 0;\n  right: 0;\n  margin: auto;\n  bottom: 20px;\n  background-color: #bbdefb;\n  background-image: linear-gradient( to right, #0004 0%, #0004 49%, #0000 50%, #0000 100% ),\n    linear-gradient(135deg, #64b5f6 50%, #607d8b 51%);\n  background-size: 30px 100%, 90px 80px;\n  border-radius: 50%;\n  background-repeat: repeat, no-repeat;\n  background-position: 0 0;\n  box-sizing: border-box;\n  border: 10px solid #DDD;\n  box-shadow: 0 0 0 4px #999 inset, 0 0 6px 6px #0004 inset;\n  animation: spin 3s ease-in-out infinite;\n}\n\n@keyframes spin {\n  0% {\n    transform: rotate(0deg)\n  }\n\n  50% {\n    transform: rotate(360deg)\n  }\n\n  75% {\n    transform: rotate(750deg)\n  }\n\n  100% {\n    transform: rotate(1800deg)\n  }\n}\n\n@keyframes shake {\n  65%, 80%, 88%, 96% {\n    transform: rotate(0.5deg)\n  }\n\n  50%, 75%, 84%, 92% {\n    transform: rotate(-0.5deg)\n  }\n\n  0%, 50%, 100% {\n    transform: rotate(0)\n  }\n}",
+    "theme": "dark",
+    "type": "loader",
+    "viewCount": 18544,
+    "originalPostId": null,
+    "user": {
+    "username": "Shoh2008",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 336,
+    "variations": 0
+    }
+    },
+    {
+    "id": "3fb9220d-f685-4f93-9f41-5b693dddf099",
+    "friendlyId": "friendly-otter-40",
+    "backgroundColor": "",
+    "post_source": null,
+    "isTailwind": false,
+    "html": "<div class=\"toggle-container\">\n  <input type=\"checkbox\" class=\"toggle-input\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 292 142\" class=\"toggle\">\n    <path d=\"M71 142C31.7878 142 0 110.212 0 71C0 31.7878 31.7878 0 71 0C110.212 0 119 30 146 30C173 30 182 0 221 0C260 0 292 31.7878 292 71C292 110.212 260.212 142 221 142C181.788 142 173 112 146 112C119 112 110.212 142 71 142Z\" class=\"toggle-background\"></path>\n    <rect rx=\"6\" height=\"64\" width=\"12\" y=\"39\" x=\"64\" class=\"toggle-icon on\"></rect>\n    <path d=\"M221 91C232.046 91 241 82.0457 241 71C241 59.9543 232.046 51 221 51C209.954 51 201 59.9543 201 71C201 82.0457 209.954 91 221 91ZM221 103C238.673 103 253 88.6731 253 71C253 53.3269 238.673 39 221 39C203.327 39 189 53.3269 189 71C189 88.6731 203.327 103 221 103Z\" fill-rule=\"evenodd\" class=\"toggle-icon off\"></path>\n    <g filter=\"url('#goo')\">\n      <rect fill=\"#fff\" rx=\"29\" height=\"58\" width=\"116\" y=\"42\" x=\"13\" class=\"toggle-circle-center\"></rect>\n      <rect fill=\"#fff\" rx=\"58\" height=\"114\" width=\"114\" y=\"14\" x=\"14\" class=\"toggle-circle left\"></rect>\n      <rect fill=\"#fff\" rx=\"58\" height=\"114\" width=\"114\" y=\"14\" x=\"164\" class=\"toggle-circle right\"></rect>\n    </g>\n    <filter id=\"goo\">\n      <feGaussianBlur stdDeviation=\"10\" result=\"blur\" in=\"SourceGraphic\"></feGaussianBlur>\n      <feColorMatrix result=\"goo\" values=\"1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7\" mode=\"matrix\" in=\"blur\"></feColorMatrix>\n    </filter>\n  </svg>\n</div>",
+    "css": ".toggle-container {\n  --active-color: #1868e3;\n  --inactive-color: #d3d3d6;\n  position: relative;\n  aspect-ratio: 292 / 142;\n  height: 1.875em;\n}\n\n.toggle-input {\n  appearance: none;\n  margin: 0;\n  position: absolute;\n  z-index: 1;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  cursor: pointer;\n}\n\n.toggle {\n  width: 100%;\n  height: 100%;\n  overflow: visible;\n}\n\n.toggle-background {\n  fill: var(--inactive-color);\n  transition: fill .4s;\n}\n\n.toggle-input:checked + .toggle .toggle-background {\n  fill: var(--active-color);\n}\n\n.toggle-circle-center {\n  transform-origin: center;\n  transition: transform .6s;\n}\n\n.toggle-input:checked + .toggle .toggle-circle-center {\n  transform: translateX(150px);\n}\n\n.toggle-circle {\n  transform-origin: center;\n  transition: transform .45s;\n  backface-visibility: hidden;\n}\n\n.toggle-circle.left {\n  transform: scale(1);\n}\n\n.toggle-input:checked + .toggle .toggle-circle.left {\n  transform: scale(0);\n}\n\n.toggle-circle.right {\n  transform: scale(0);\n}\n\n.toggle-input:checked + .toggle .toggle-circle.right {\n  transform: scale(1);\n}\n\n.toggle-icon {\n  transition: fill .4s;\n}\n\n.toggle-icon.on {\n  fill: var(--inactive-color);\n}\n\n.toggle-input:checked + .toggle .toggle-icon.on {\n  fill: #fff;\n}\n\n.toggle-icon.off {\n  fill: #eaeaec;\n}\n\n.toggle-input:checked + .toggle .toggle-icon.off {\n  fill: var(--active-color);\n}",
+    "theme": "light",
+    "type": "switch",
+    "viewCount": 6038,
+    "originalPostId": null,
+    "user": {
+    "username": "njesenberger",
+    "subscription": null
+    },
+    "post_ai_variation_query": [],
+    "_count": {
+    "user_favorite_post": 200,
+    "variations": 0
+    }
+    }
+    ],
+    "currentPage": 0,
+    "hasNextPage": true,
+    "postsCount": 4904
+    }
