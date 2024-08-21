@@ -22,7 +22,7 @@
 // }
 
 // export default Login;
-
+import { Link } from "react-router-dom"
 function Login() {
   return (
     <div>
@@ -44,7 +44,7 @@ function Login() {
               <label  className="mb-2  dark:text-black text-lg">Email</label>
               <input
                 id="email"
-                className="border outline-none p-3  dark:text-black  dark:border-[#ff6f61]   shadow-md placeholder:text-base focus:scale-105 ease-in-out duration-300 border-text-black rounded-lg w-full"
+                className="border outline-none p-3  dark:text-black     shadow-md placeholder:text-base focus:scale-105 ease-in-out duration-300 border-text-black rounded-lg w-full"
                 type="email"
                 placeholder="Email"
                 required
@@ -54,7 +54,7 @@ function Login() {
               <label  className="mb-2 dark:text-black text-lg">Password</label>
               <input
                 id="password"
-                className="border outline-none p-3 shadow-md  dark:text-black  dark:border-[#ff6f61] placeholder:text-base focus:scale-105 ease-in-out duration-300 border-text-black rounded-lg w-full"
+                className="border outline-none p-3 shadow-md  dark:text-black   placeholder:text-base focus:scale-105 ease-in-out duration-300 border-text-black rounded-lg w-full"
                 type="password"
                 placeholder="Password"
                 required
@@ -84,11 +84,13 @@ function Login() {
                 className="group text-[#ff6f61] transition-all duration-100 ease-in-out"
                 href="#"
               >
+                <Link to='/register'>
                 <span
                   className="bg-left-bottom bg-gradient-to-r from-[#ff6f61] to-[#ff6f61] bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out"
                 >
-                  Sign Up
+                  Register
                 </span>
+                </Link>
               </a>
             </h3>
           </div>
