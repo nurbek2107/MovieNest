@@ -14,7 +14,7 @@ function MovieDetail() {
     const fetchMovie = async () => {
       try {
         const response = await axios.get(
-          `https://run.mocky.io/v3/2bb3aa51-ecff-4efe-9cce-b8c141b3c21c/id/${id}`
+          `https://run.mocky.io/v3/8f23bc05-2b68-44cf-a9c2-212445902c4f/id/${id}`
         );
         setMovie(response.data);
       } catch (error) {
