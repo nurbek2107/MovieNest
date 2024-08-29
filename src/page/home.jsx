@@ -17,7 +17,7 @@ function Home() {
     const fetchData = async () => {
       try {
         const response = await axios.get(
-          "https://run.mocky.io/v3/0855334c-bf36-4858-875a-9e0e7d3e545e"
+          "https://run.mocky.io/v3/8f23bc05-2b68-44cf-a9c2-212445902c4f"
         );
         setData(response.data.data || response.data);
       } catch (error) {
